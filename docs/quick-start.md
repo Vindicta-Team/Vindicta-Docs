@@ -63,8 +63,24 @@ giving you the chance to evade, intercept, or ambush.
 Your first main task should be to create a hidden camp where you can start to build your strength.  
 To build a camp you need building supplies. The easiest early source of these is police stations, which you will find in most towns.  
 You should try talking to the locals to find out what they know, they will be able to tell you if there is a police station in the town.  
-Of course the police station will be guarded, so if you can find some means to distract the local police that might make things easier.  
-You will need to load your supplies on to something, so you should secure a vehicle (a civilian one unless you want a fight).
-Once you have your supplies you should try to escape the area and find somewhere secure and out of the way to set up your first camp.
-Beware the enemy patrols roads and towns, and has outposts and bases everywhere. Although you may find an abandonned base, 
-the enemy didn't forget about it, they just haven't occupied it yet. If you squat in one of these you can expect a fight soon.
+
+The police station will be guarded, so if you can find some means to distract the local police that might make things easier.  
+You will need to load your supplies on to something, so you should secure a vehicle (a civilian one unless you want a fight).  
+
+Once you have your supplies you should try to escape the area and find somewhere secure and out of the way to set up your first camp.  
+
+The enemy patrols roads and towns, and has outposts and bases everywhere. Although you may find an abandoned base, 
+the enemy didn't forget about it, they just haven't occupied it yet. If you squat in one of these you can expect a fight at some point.  
+
+## Your Second Day
+
+A revolution needs revolutionaries. The more unstable a town, the more of its citizens will join your cause. You can see the rate of recruitment, 
+and the total available when you select a town on the map. You can turn those recruits into armed revolutionaries at any camp within range of the city, 
+that has weapons to arm them with (an Arsenal with some appropriate weapns), and space for them to sleep (nearby buildings, or tents).  
+
+The new units will be available to give orders to via the map. All the units will be assigned to the camp garrison by default. 
+If you want to send them somewhere you should first split the garrison into two, leaving one part behind to hold them camp. If you do not then the 
+camp will become abandoned, and the leaving garrison will take *everything* with them that they can carry or drive. 
+
+Useful targets for a new garrison are liberated towns. Holding the town will help secure it against suppressive actions by the enemy, and will increase the 
+recruitment rate by 50%.
