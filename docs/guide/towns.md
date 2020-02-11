@@ -24,8 +24,8 @@ Increasing instability cause the town to move through various states.
 
 ## States
 
-Towns have 5 disctinct states: STABLE, 
-<span style="color:yellow">AGITATED</span>,
+Towns have 5 disctinct states: `STABLE`, 
+`<span style="color:yellow">AGITATED</span>`,
 <span style="color:orange">IN REVOLT</span>, 
 <span style="color:green">LIBERATED</span>, 
 and <span style="color:red">SUPPRESSED</span>.
