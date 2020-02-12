@@ -20,4 +20,4 @@ This will generally be lightly manned, and contain crates with basic police equi
 
 When taking casualties the police will call in reinforcements.  
 These reinforcements are in-exaustable.  
-The only way to stop them is to stop killing the police, kill them all quickly enough that they cannot call for reinforcements, or to [liberate the town]({{ site.baseurl }}{% link /docs/guide/towns.md %}).  
+The only way to stop them is to stop killing the police, kill them all quickly enough that they cannot call for reinforcements, or to [liberate the town]({{ site.baseurl }}{% link /guide/towns.html %}).  
