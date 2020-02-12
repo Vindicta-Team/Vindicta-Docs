@@ -7,7 +7,7 @@ nav_order: 2
 
 # Police
 
-Most [towns]({{ site.baseurl }}{% link /guide/towns.html %}) will have a police presence from the start of the campaign.  
+Most [towns](towns) will have a police presence from the start of the campaign.  
 They are generally lightly armed, and limited in numbers.  
 They will take actions against you (and other civilians) if provoked.  
 
@@ -20,4 +20,4 @@ This will generally be lightly manned, and contain crates with basic police equi
 
 When taking casualties the police will call in reinforcements.  
 These reinforcements are in-exaustable.  
-The only way to stop them is to stop killing the police, kill them all quickly enough that they cannot call for reinforcements, or to [liberate the town]({{ site.baseurl }}{% link /guide/towns.html %}).  
+The only way to stop them is to stop killing the police, kill them all quickly enough that they cannot call for reinforcements, or to [liberate the town](towns).  
