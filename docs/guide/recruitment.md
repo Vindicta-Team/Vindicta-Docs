@@ -6,10 +6,19 @@ nav_order: 4
 ---
 
 # Recruitment
+{: .no_toc }
 
 [Towns](towns) that are experiencing instability can provide recruits.  
 Recruits represent potential fighters, not existant units.  
 Recruits can be turned into fighters at camps given certain conditions.  
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Recruitment Rate
 
