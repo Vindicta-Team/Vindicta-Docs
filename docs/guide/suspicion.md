@@ -4,14 +4,9 @@ title: Suspicion
 parent: Guide
 nav_order: 3
 ---
+
 # Suspicion
 {: .no_toc }
-
-Suspicion is a measure of how enemies view you.  
-Actions, appearences, and locations have levels of suspicion associated with them.  
-The suspicion is cumulative, meaning that if you are performing a suspicious action, 
-while in a suspicious location, you will be subject to the sum of the suspicion of them both.  
-Suspicion can change rapidly or over time, depending on the cause.  
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -20,6 +15,12 @@ Suspicion can change rapidly or over time, depending on the cause.
 {:toc}
 
 ---
+
+Suspicion is a measure of how enemies view you.  
+Actions, appearences, and locations have levels of suspicion associated with them.  
+The suspicion is cumulative, meaning that if you are performing a suspicious action, 
+while in a suspicious location, you will be subject to the sum of the suspicion of them both.  
+Suspicion can change rapidly or over time, depending on the cause.  
 
 ## Suspicion States
 
