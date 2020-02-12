@@ -58,6 +58,3 @@ Suspicious appearence can be caused by:
 ### Locations
 
 This one is simple: being in military or police locations is suspicious. Being in them while driving is liable to get you immediately shot.  
-
-
-### Locations
