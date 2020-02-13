@@ -36,7 +36,7 @@ A towns capacity will fill up over the course of a few hours when recruitment ra
 ## Turning Recruits into Fighters
 
 This can be done only at camps and outposts.  
-There must be an [Arsenal](the-arsenal) attached to the location, with appropriate weapons available.  
+There must be an [Arsenal](arsenal) attached to the location, with appropriate weapons available.  
 There must be enough housing available at the location for the new fighters. This can be provided by nearby houses, or by building tents.  
 The number of recruits available at the location is determined by the total of all the towns in its recruitment radius.  
 Once all these conditions are met you can enlist fighters to your cause.  
@@ -55,6 +55,9 @@ To give an order you simply click on the garrison on in the map, and the order l
 #### Split
 This is not an order as such, it will simply split a single garrison into two, based on the composition your specify.  
 The original garrison will continue with its previously assigned order, and the new one will be idle until given an order.  
+
+### Move
+This will order the garrison to move to the location you specified, with no special behavior upon arrival.
 
 #### Reinforce
 This covers joining existing garrisons, and occupying locations without an existing garrison.  
