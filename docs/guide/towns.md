@@ -8,6 +8,8 @@ nav_order: 1
 # Towns
 {: .no_toc }
 
+Towns should be the main focus of your activities, as the success of the revolution depends on the consent of the [civilian](civilians) population.  
+
 ## Table of contents
 {: .no_toc .text-delta }
 
