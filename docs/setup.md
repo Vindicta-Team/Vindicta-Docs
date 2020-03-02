@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Dedicated Server
 
-**Don't just blindly copy this, make sure your paths, mod and config names are correct. This is just and example!**  
+**Don't just blindly copy this, make sure your paths, mod and config names are correct. This is just an example!**  
 For automatic loading and starting of the mission you need to enable persistent battle field (`persistent = 1;`) in the config file, and pass `-autoInit` on the command line.  
 
 ### Command line
