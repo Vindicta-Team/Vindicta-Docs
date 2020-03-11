@@ -8,13 +8,13 @@ nav_order: 5
 
 ## Military:
 Base Game
-<br>
+
 - AAF<br>
 - LDF<br>
 - NATO<br>
 - CSAT<br>
 
-Custom:<br>
+Custom:
 
 - [RHS AAF 2020](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)<br>
 - [RHS AAF 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)<br>
@@ -29,11 +29,11 @@ Custom:<br>
 
 ## Police:
 
-Base Game:<br>
+Base Game:
 
 - Police
 
-Custom:<br>
+Custom:
 
 - [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)<br>
 - [RHS LDF Ranger](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)<br>
