@@ -56,7 +56,7 @@ While the majority of ground troops have access to night vision equipment like t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## NATO
-<b>The North Atlantic Treaty Organization (alternately known as the North Atlantic Alliance and shortened to NATO or OTAN in French)</b> is a multi-national BLUFOR faction that has been featured in ArmA: Cold War Assault, ArmA 2 and ArmA 3.
+The <b>North Atlantic Treaty Organization (alternately known as the North Atlantic Alliance and shortened to NATO or OTAN in French)</b> is a multi-national BLUFOR faction that has been featured in ArmA: Cold War Assault, ArmA 2 and ArmA 3.
 
 ### History
 Two decades of geopolitical turmoil after the events of Operation Arrowhead have seen a drastic reduction to NATO's influence on world affairs.
@@ -86,7 +86,43 @@ Depending on whether NBC threats to humans are present, MOPP gear may also be di
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## CSAT
-"description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
+The <b>Canton Protocol Strategic Alliance Treaty (alternately CSAT for short, and in Simplified Chinese: 广东条约战略联盟组织)</b> is an OPFOR faction in ArmA 3.
+
+They are a military and economic alliance that consists of Eastern nations, and serve as a direct counterpart to NATO.
+
+The bulk of the coalition's military might is divided up into different forces depending on the region that they operate in; as of current, this consists of Mediterranean (Altis), Pacific (Tanoa), and North African (Malden) branches.
+
+### History
+CSAT's meteoric rise takes place amidst the backdrop of a two decade-long economic depression throughout the European Union and the United States.
+
+While its geopolitical adversaries remain bogged down by domestic issues, CSAT's members have been bolstered by decades of unparalleled growth and technological advancement.
+
+Every year, Western and Eastern nations alike continue to seek membership in the hopes of gaining a share in the bloc's prosperity. The latest summits, first held in the Syrian capital of Damascus and in Russia's Moscow later that year, have already gained the coalition several new members.
+
+In Southern Europe, countries suffering from harsh austerity measures imposed by the EU have turned to seek investments and humanitarian aid relief from the Republic of Iran. Meanwhile in the Asia-Pacific region, military victories in proxy wars against the U.S. has allowed China to maintain full dominance over the South China Sea.
+
+Even as the 2030s draw to a close, its Western rivals remain convinced that CSAT's rise can be halted. But with each year's passing, the coalition's influence and reach only continues to strengthen; its ascension to status of being the world's premier superpower, very much appears to be inevitable.
+
+NOTE: Though their exact date of formation has never been outright stated, it can be surmised that the organisation has been in existence for at least a decade prior to the events of The East Wind, as they were actively involved with the events of the Altian Civil War and also influencing Malden in the 2020s.
+
+### Equipment
+CSAT equipment is predominately made up of assets acquired from various countries; namely Russian arms manufacturers. Iranian and Chinese defence industries have also collaborated heavily in order to reverse engineer several weapons systems that are of both Eastern and Western design in origin.
+
+Nonetheless, their forces utilise extremely advanced hardware that is on par with, if not superior to, their Western counterparts in almost every way.
+
+For example, Iranian/Chinese CSAT soldiers are unique for their armoured fatigues which consist of two components; an over-suit camouflaged in their signature Hexacam pattern (for arid, urban, and tropical environments) and a bullet-resistant under-suit that is designed to provide ballistic protection from neck to toe against small arms calibres ranging up to 7.62 mm.
+
+Because their fatigues are armoured by default, CSAT soldiers eschew the need for plate carriers like their NATO/AAF counterparts and can wear load bearing vests instead - allowing them to carry much more ammunition and equipment (certain specialist troops still opt to wear tactical vests).
+
+On the other hand, their Defender/Protector/Assassin helmets provide the best ballistic protection and surface coverage out of all modern combat helmets.
+
+However, it should be noted that not all CSAT forces are equally equipped to the same standards as their Iranian/Chinese counterparts.
+
+North African troops stationed on the island of Malden for instance, only wear unarmoured light fatigues and chest rigs - both of which lack ballistic protection. Likewise, many do not have access to combat helmets and only wear simple ball/military caps for headwear.
+
+While on deployments, CSAT soldiers do not wear the flag patches of their home nation, and instead bear the six red hexagons of the CSAT emblem.
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
 # Custom
 
