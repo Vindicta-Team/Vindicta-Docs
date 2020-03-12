@@ -29,7 +29,32 @@ At both the squad and company level, AAF weapon teams utilise the Titan MPRL for
 
 <b>Faction made by [Vindicta DEV Team](https://github.com/Vindicta-Team)</b><br>
 ## LDF
-"description and image" - made by [MatrikSky](https://github.com/MatrikSky)<br>
+The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
+
+### History
+The collapse of the Soviet Union paved the way for Livonia regaining its independence in 1991. Towards the start of the 21st century, the country would also become an official member of the NATO alliance. Since then, the Livonian Defense Force has participated in numerous deployments alongside its allies throughout the globe.
+
+As tensions with Livonia's neighbours continue to rise in light of CSAT expansionism in nearby Belarus, the LDF's role has transitioned to safeguarding the nation's borders against potential infiltration attempts from both the Russian Federation and Belarus.
+
+Arma3-faction-nato-00
+In recent years, safeguarding the nation's borders against Russian/Belorussian subversion attempts has become top priority of both the LDF and its allies' agenda.
+
+In late 2035, the Livonian government reached an agreement with its NATO partners to have the biennial "Electron" joint training exercises be held on a consistent basis in the country's semi-abandoned Nadbór region.
+
+The latest of the exercises, Electron-39, will begin on June 17th, 2039. It will be the largest exercise yet, with over 25,000 personnel from both the LDF and its allies participating.
+
+The LDF and their allies will be alternating between roleplaying as the aggressor force, simulating an armed incursion by the Russian military into the so-called "Andrzejów Gap" region.
+
+### Equipment
+As an active member of the NATO alliance, the LDF's soldiers are well-equipped with some of the latest in Western-made hardware and electronics.
+
+Conventional Livonian infantry don combat fatigues, ballistic helmets and plate carrier vests coloured in either a plain olive green colour or concealed with the LDF's distinctive "geometric" woodland camouflage pattern.
+
+Non-combat support troops on the other hand, often wear lighter versions of the standard fatigues but only don bandoliers or lightweight bullet-resistant vests instead. On the rare occasion that NBC safety is required, military scientists and regular soldiers wear full-body protective suits and respirators designed to shield them against contamination from biological/chemical agents.
+
+While the majority of ground troops have access to night vision equipment like their American and British counterparts, only the LDF's elite special operations units and pathfinders are given ENVG-II multi-vision goggles.
+
+<b>Faction made by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## NATO
 "description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
 ## CSAT
