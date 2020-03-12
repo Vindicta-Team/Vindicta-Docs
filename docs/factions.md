@@ -4,9 +4,9 @@ title: Factions
 nav_order: 5
 ---
 
-# Military:
+# Military
 
-# Vanilla:
+# Vanilla
 
 ## AAF
 The <b>Altis Armed Forces (or simply the AAF)</b> are an Independent faction in ArmA 3, forming the main military force of the <b>Republic of Altis and Stratis</b>.
@@ -27,7 +27,7 @@ The service rifle of all AAF troopers and support personnel is the Mk20 bullpup 
 
 At both the squad and company level, AAF weapon teams utilise the Titan MPRL for anti-aircraft purposes, while the Titan MPRL Compact, PCML, and MAAWS Mk4 Mod 0 launchers are used for anti-tank/anti-vehicle duties. On occasion, even CSAT RPG-42s have been utilised by AAF AT troopers; though generally in fewer numbers due to the prevalence of the PCML and MAAWS Mk4 launchers instead.<br>
 
-<b>Faction made by [Vindicta DEV Team](https://github.com/Vindicta-Team)</b><br>
+<b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## LDF
 The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
 
@@ -54,13 +54,41 @@ Non-combat support troops on the other hand, often wear lighter versions of the 
 
 While the majority of ground troops have access to night vision equipment like their American and British counterparts, only the LDF's elite special operations units and pathfinders are given ENVG-II multi-vision goggles.
 
-<b>Faction made by [MatrikSky](https://github.com/MatrikSky)</b><br>
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## NATO
-"description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
+<b>The North Atlantic Treaty Organization (alternately known as the North Atlantic Alliance and shortened to NATO or OTAN in French)</b> is a multi-national BLUFOR faction that has been featured in ArmA: Cold War Assault, ArmA 2 and ArmA 3.
+
+### History
+Two decades of geopolitical turmoil after the events of Operation Arrowhead have seen a drastic reduction to NATO's influence on world affairs.
+
+In the subsequent power vacuum, the Canton Protocol Strategic Alliance Treaty (CSAT), a coalition of Eastern nations led by the People's Republic of China, has risen to assume its place.
+
+Economic issues continue to plague many of the core NATO members. A two decade-long depression in the United States, as well as throughout the European continent, has set into motion an irreversible dwindling of Western European soft power.
+
+Germany, once considered the economic heart of Europe, suffers from a staggering 33% unemployment rate while other European countries average higher at 42%. Mass rioting in capital cities occur on a regular basis, necessitating the deployment of soldiers and often culminating in bloodshed.
+
+The U.S. has been equally impacted by the depression, with its economy shrinking at the turn of every financial quarter. Combined with constant military defeats in proxy wars against China in the Asia-Pacific region, and elsewhere in the globe, these losses have contributed to a sharp rise in isolationist sentiments.
+
+With the alliance collectively struggling to tackle domestic issues, many of its members have opted to shy away from foreign deployments. This has resulted in the U.S. being stretched thin militarily, and unable to secure its traditional spheres of influence against CSAT expansionism.
+
+Prior to the start of the events of The East Wind, the alliance has already been severely fragmented. Several Southern European nations are facing total economic collapse, while many of its Eastern European members have opted to leave the organisation on the promise of receiving Russian oil.
+
+### Equipment
+Predominately consisting of infantrymen from the U.S. Army, NATO forces wear plate carriers and helmets which offer decent protection to the head and torso at the cost of storage capacity.
+
+Conventional troops wear a mixture of light and blast-resistant carrier vests. Squad leaders and some specialist troops on the other hand, prefer to don special plate carriers made out of ceramic materials. Combat helmets range from Light, Enhanced and Camouflaged variants, which are standard issue across all NATO forces.
+
+Soldiers deployed to the Mediterranean theatre wear MTP-camouflaged uniforms with ranger green-coloured vests and a variety of spraypainted helmets, while soldiers operating in the Pacific are issued Tropic-camouflaged uniforms, vests and headgear instead.
+
+Lastly, troops based in mainland Europe utilise Woodland-camouflaged uniforms and personal gear specially tailored for the heavily-forested landscapes of Eastern Europe.
+
+Depending on whether NBC threats to humans are present, MOPP gear may also be distributed to line infantry in the form of protective suits and respirators with gas masks. Intended to shield them against the hazards of a contaminated battlefield, these cumbersome (but essential) pieces of equipment are available to all NATO forces regardless of the region they operate in.
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## CSAT
 "description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
 
-# Custom:
+# Custom
 
 ## [RHS AAF 2020](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 "description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
@@ -89,14 +117,14 @@ While the majority of ground troops have access to night vision equipment like t
 ## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 "description and image" - made by [MatrikSky](https://github.com/MatrikSky)<br>
 
-# Police:
+# Police
 
-# Vanilla:
+# Vanilla
 
 ## Police
 "description and image" - made by [MatrikSky](https://github.com/MatrikSky)
 
-# Custom:
+# Custom
 
 ## [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 "description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
