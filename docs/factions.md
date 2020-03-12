@@ -9,7 +9,7 @@ nav_order: 5
 # Vanilla:
 
 ## AAF
-The Altis Armed Forces (or simply the AAF) are an Independent faction in ArmA 3, forming the main military force of the Republic of Altis and Stratis.
+The <b>Altis Armed Forces (or simply the AAF)</b> are an Independent faction in ArmA 3, forming the main military force of the <b>Republic of Altis and Stratis</b>.
 
 After a military coup in 2026, they wage a long and bloody civil war first against the pro-civilian government loyalist forces and later, against the Freedom and Independence Army insurgency group which leads to the events of The East Wind campaign.
 
@@ -27,7 +27,7 @@ The service rifle of all AAF troopers and support personnel is the Mk20 bullpup 
 
 At both the squad and company level, AAF weapon teams utilise the Titan MPRL for anti-aircraft purposes, while the Titan MPRL Compact, PCML, and MAAWS Mk4 Mod 0 launchers are used for anti-tank/anti-vehicle duties. On occasion, even CSAT RPG-42s have been utilised by AAF AT troopers; though generally in fewer numbers due to the prevalence of the PCML and MAAWS Mk4 launchers instead.<br>
 
-Faction made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
+<b>Faction made by [Vindicta DEV Team](https://github.com/Vindicta-Team)</b><br>
 ## LDF
 "description and image" - made by [MatrikSky](https://github.com/MatrikSky)<br>
 ## NATO
