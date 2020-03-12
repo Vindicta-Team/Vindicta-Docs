@@ -36,7 +36,6 @@ The collapse of the Soviet Union paved the way for Livonia regaining its indepen
 
 As tensions with Livonia's neighbours continue to rise in light of CSAT expansionism in nearby Belarus, the LDF's role has transitioned to safeguarding the nation's borders against potential infiltration attempts from both the Russian Federation and Belarus.
 
-Arma3-faction-nato-00
 In recent years, safeguarding the nation's borders against Russian/Belorussian subversion attempts has become top priority of both the LDF and its allies' agenda.
 
 In late 2035, the Livonian government reached an agreement with its NATO partners to have the biennial "Electron" joint training exercises be held on a consistent basis in the country's semi-abandoned Nadbór region.
