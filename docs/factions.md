@@ -6,10 +6,28 @@ nav_order: 5
 
 # Military:
 
-# Vanilla
+# Vanilla:
 
 ## AAF
-"description and image" - made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
+The Altis Armed Forces (or simply the AAF) are an Independent faction in ArmA 3, forming the main military force of the Republic of Altis and Stratis.
+
+After a military coup in 2026, they wage a long and bloody civil war first against the pro-civilian government loyalist forces and later, against the Freedom and Independence Army insurgency group which leads to the events of The East Wind campaign.
+
+### History
+Covertly backed by foreign powers, a high-ranking military officer by the name of Georgious Akhanteros leads a coup in an attempt to seize power from the civilian government of Altis. The coup d'etat is swift, with Akhanteros and his supporters effectively forming a junta that silences any political opposition groups and violently crushes all protests.
+
+This act ultimately led to the start of a bloody civil war between Akhanteros' hardline AAF, and pre-coup loyalist forces (predecessors of the present-day FIA) who sought to re-establish civilian control of the country. The fighting would continue to last a total of four more years until the signing of Jerusalem Cease Fire of 2030, which brought a halt to the bloodshed.
+
+The agreement was largely one-sided however, as the AAF had emerged victorious while the loyalists were rendered completely irrelevant by the war's end. As well as bringing a conclusive end to the fighting, the agreement gave global recognition to Akhanteros' cabinet as the legitimate government of the Republic of Altis and Stratis.
+
+### Equipment
+Most of the AAF's hardware consists of outdated or long-since decommissioned for service equipment used by NATO forces. Troopers wear a mixture of early 21st century U.S. Army ACU-style uniforms patterned in a fractal digital green camouflage, while standard-issue combat helmets are old PASGT helmets that have been modified to mount night vision goggles.
+
+The service rifle of all AAF troopers and support personnel is the Mk20 bullpup assault rifle that is chambered to fire the 5.56 mm NATO cartridge. For additional or precision firepower, the AAF also utilises the Mk200 light machine gun and Mk18 ABR battle rifle for either role (respectively).
+
+At both the squad and company level, AAF weapon teams utilise the Titan MPRL for anti-aircraft purposes, while the Titan MPRL Compact, PCML, and MAAWS Mk4 Mod 0 launchers are used for anti-tank/anti-vehicle duties. On occasion, even CSAT RPG-42s have been utilised by AAF AT troopers; though generally in fewer numbers due to the prevalence of the PCML and MAAWS Mk4 launchers instead.<br>
+
+Faction made by [Vindicta DEV Team](https://github.com/Vindicta-Team)<br>
 ## LDF
 "description and image" - made by [MatrikSky](https://github.com/MatrikSky)<br>
 ## NATO
@@ -48,7 +66,7 @@ nav_order: 5
 
 # Police:
 
-# Base Game:
+# Vanilla:
 
 ## Police
 "description and image" - made by [MatrikSky](https://github.com/MatrikSky)
