@@ -34,7 +34,7 @@ These are large enemy locations, that start with an officer.
 ### Outposts
 
 Smaller locations. Some of these exist at campaign start, some are created over the course of the campaign as the commander ramps up operations. 
-They do not start with an officer, and must be assigned one from the airfield (see [Military](Military) actions).
+They do not start with an officer, and must be assigned one from the airfield (see [Military](military) actions).
 
 ### Roadblocks
 
