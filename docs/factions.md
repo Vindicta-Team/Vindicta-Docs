@@ -13,25 +13,37 @@ The <b>Altis Armed Forces (or simply the AAF)</b> are an Independent faction in 
 
 After a military coup in 2026, they wage a long and bloody civil war first against the pro-civilian government loyalist forces and later, against the Freedom and Independence Army insurgency group which leads to the events of The East Wind campaign.
 
-### History
+<details><summary>History</summary>
+<p>
+  
 Covertly backed by foreign powers, a high-ranking military officer by the name of Georgious Akhanteros leads a coup in an attempt to seize power from the civilian government of Altis. The coup d'etat is swift, with Akhanteros and his supporters effectively forming a junta that silences any political opposition groups and violently crushes all protests.
 
 This act ultimately led to the start of a bloody civil war between Akhanteros' hardline AAF, and pre-coup loyalist forces (predecessors of the present-day FIA) who sought to re-establish civilian control of the country. The fighting would continue to last a total of four more years until the signing of Jerusalem Cease Fire of 2030, which brought a halt to the bloodshed.
 
 The agreement was largely one-sided however, as the AAF had emerged victorious while the loyalists were rendered completely irrelevant by the war's end. As well as bringing a conclusive end to the fighting, the agreement gave global recognition to Akhanteros' cabinet as the legitimate government of the Republic of Altis and Stratis.
 
-### Equipment
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
 Most of the AAF's hardware consists of outdated or long-since decommissioned for service equipment used by NATO forces. Troopers wear a mixture of early 21st century U.S. Army ACU-style uniforms patterned in a fractal digital green camouflage, while standard-issue combat helmets are old PASGT helmets that have been modified to mount night vision goggles.
 
 The service rifle of all AAF troopers and support personnel is the Mk20 bullpup assault rifle that is chambered to fire the 5.56 mm NATO cartridge. For additional or precision firepower, the AAF also utilises the Mk200 light machine gun and Mk18 ABR battle rifle for either role (respectively).
 
 At both the squad and company level, AAF weapon teams utilise the Titan MPRL for anti-aircraft purposes, while the Titan MPRL Compact, PCML, and MAAWS Mk4 Mod 0 launchers are used for anti-tank/anti-vehicle duties. On occasion, even CSAT RPG-42s have been utilised by AAF AT troopers; though generally in fewer numbers due to the prevalence of the PCML and MAAWS Mk4 launchers instead.<br>
 
+</p>
+</details>
+
 <b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## LDF
 The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
 
-### History
+<details><summary>History</summary>
+<p>
+  
 The collapse of the Soviet Union paved the way for Livonia regaining its independence in 1991. Towards the start of the 21st century, the country would also become an official member of the NATO alliance. Since then, the Livonian Defense Force has participated in numerous deployments alongside its allies throughout the globe.
 
 As tensions with Livonia's neighbours continue to rise in light of CSAT expansionism in nearby Belarus, the LDF's role has transitioned to safeguarding the nation's borders against potential infiltration attempts from both the Russian Federation and Belarus.
@@ -44,7 +56,12 @@ The latest of the exercises, Electron-39, will begin on June 17th, 2039. It will
 
 The LDF and their allies will be alternating between roleplaying as the aggressor force, simulating an armed incursion by the Russian military into the so-called "Andrzejów Gap" region.
 
-### Equipment
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
 As an active member of the NATO alliance, the LDF's soldiers are well-equipped with some of the latest in Western-made hardware and electronics.
 
 Conventional Livonian infantry don combat fatigues, ballistic helmets and plate carrier vests coloured in either a plain olive green colour or concealed with the LDF's distinctive "geometric" woodland camouflage pattern.
@@ -53,11 +70,16 @@ Non-combat support troops on the other hand, often wear lighter versions of the 
 
 While the majority of ground troops have access to night vision equipment like their American and British counterparts, only the LDF's elite special operations units and pathfinders are given ENVG-II multi-vision goggles.
 
+</p>
+</details>
+
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## NATO
 The <b>North Atlantic Treaty Organization (alternately known as the North Atlantic Alliance and shortened to NATO or OTAN in French)</b> is a multi-national BLUFOR faction that has been featured in ArmA: Cold War Assault, ArmA 2 and ArmA 3.
 
-### History
+<details><summary>History</summary>
+<p>
+  
 Two decades of geopolitical turmoil after the events of Operation Arrowhead have seen a drastic reduction to NATO's influence on world affairs.
 
 In the subsequent power vacuum, the Canton Protocol Strategic Alliance Treaty (CSAT), a coalition of Eastern nations led by the People's Republic of China, has risen to assume its place.
@@ -72,7 +94,12 @@ With the alliance collectively struggling to tackle domestic issues, many of its
 
 Prior to the start of the events of The East Wind, the alliance has already been severely fragmented. Several Southern European nations are facing total economic collapse, while many of its Eastern European members have opted to leave the organisation on the promise of receiving Russian oil.
 
-### Equipment
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
 Predominately consisting of infantrymen from the U.S. Army, NATO forces wear plate carriers and helmets which offer decent protection to the head and torso at the cost of storage capacity.
 
 Conventional troops wear a mixture of light and blast-resistant carrier vests. Squad leaders and some specialist troops on the other hand, prefer to don special plate carriers made out of ceramic materials. Combat helmets range from Light, Enhanced and Camouflaged variants, which are standard issue across all NATO forces.
@@ -83,6 +110,9 @@ Lastly, troops based in mainland Europe utilise Woodland-camouflaged uniforms an
 
 Depending on whether NBC threats to humans are present, MOPP gear may also be distributed to line infantry in the form of protective suits and respirators with gas masks. Intended to shield them against the hazards of a contaminated battlefield, these cumbersome (but essential) pieces of equipment are available to all NATO forces regardless of the region they operate in.
 
+</p>
+</details>
+
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## CSAT
 The <b>Canton Protocol Strategic Alliance Treaty (alternately CSAT for short, and in Simplified Chinese: 广东条约战略联盟组织)</b> is an OPFOR faction in ArmA 3.
@@ -91,7 +121,12 @@ They are a military and economic alliance that consists of Eastern nations, and 
 
 The bulk of the coalition's military might is divided up into different forces depending on the region that they operate in; as of current, this consists of Mediterranean (Altis), Pacific (Tanoa), and North African (Malden) branches.
 
-### History
+</p>
+</details>
+
+<details><summary>History</summary>
+<p>
+  
 CSAT's meteoric rise takes place amidst the backdrop of a two decade-long economic depression throughout the European Union and the United States.
 
 While its geopolitical adversaries remain bogged down by domestic issues, CSAT's members have been bolstered by decades of unparalleled growth and technological advancement.
@@ -104,7 +139,12 @@ Even as the 2030s draw to a close, its Western rivals remain convinced that CSAT
 
 NOTE: Though their exact date of formation has never been outright stated, it can be surmised that the organisation has been in existence for at least a decade prior to the events of The East Wind, as they were actively involved with the events of the Altian Civil War and also influencing Malden in the 2020s.
 
-### Equipment
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
 CSAT equipment is predominately made up of assets acquired from various countries; namely Russian arms manufacturers. Iranian and Chinese defence industries have also collaborated heavily in order to reverse engineer several weapons systems that are of both Eastern and Western design in origin.
 
 Nonetheless, their forces utilise extremely advanced hardware that is on par with, if not superior to, their Western counterparts in almost every way.
@@ -121,60 +161,420 @@ North African troops stationed on the island of Malden for instance, only wear u
 
 While on deployments, CSAT soldiers do not wear the flag patches of their home nation, and instead bear the six red hexagons of the CSAT emblem.
 
+</p>
+</details>
+
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
 # Custom
 
 ## [RHS AAF 2020](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS AAF 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS LDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS HIDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS LDF NATO](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
-"description and image" - Faction by [Straker27](https://github.com/Straker27)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 ## [RHS AFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019691680)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [3CB BAF]()
-"description and image" - Faction by [Jasperdoit](https://github.com/Jasperdoit)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 ## [RAF 2035]()
-"description and image" - Faction by [Jasperdoit](https://github.com/Jasperdoit)<br>
-## [Bundeswehr]()
-"description and image" - Faction by [Jasperdoit](https://github.com/Jasperdoit)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+## [Bundeswehr 2020]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 ## [CUP TKA](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)
-"description and image" - Faction by [MacTheGoon](https://github.com/MacTheGoon)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
 ## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-"description and image" - Faction by [MatrikSky](https://github.com/MatrikSky)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-"description and image" - Faction by [MatrikSky](https://github.com/MatrikSky)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
 # Police
 
 # Vanilla
 
 ## Police
-"description and image" - made by [MatrikSky](https://github.com/MatrikSky)
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
 # Custom
 
 ## [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS LDF Ranger](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
-"description and image" - Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 ## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)
-"description and image" - Faction by [MatrikSky](https://steamcommunity.com/profiles/76561198354579370)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## [RHS LDF NATO Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
-"description and image" - Faction by [Straker27](https://github.com/Straker27)<br>
-## [Bundes Polizei GSG9]()
-"description and image" - Faction by [Jasperdoit](https://github.com/Jasperdoit)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Straker27](https://github.com/Straker27)</b><br>
+## [GSG9]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 ## [WW2 Heer Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-"description and image" - Faction by [MatrikSky](https://github.com/MatrikSky)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## [WW2 UK Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-"description and image" - Faction by [MatrikSky](https://github.com/MatrikSky)<br>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 <br>
 <br>
 You need ACE compatibility mods for  RHS and CUP.<br>
