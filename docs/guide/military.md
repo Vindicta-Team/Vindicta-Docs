@@ -98,3 +98,12 @@ It will take a while for the officers to put their affairs in order before movin
 Enemy outposts and bases will deploy routine patrols to the surrounding towns. These can deplete the forces at the location they
 are dispatched from significantly.  
 
+### Supply Convoy
+
+Convoys of various kinds will be sent out regularly from airfields to bases and outposts held by the enemy (if they have an officer there to request them).  
+These will contain bulk amounts of various items, including:
+- Building supplies
+- Primary weapons
+- Secondary weapons
+- Medical supplies
+- Explosives
