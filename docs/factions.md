@@ -121,9 +121,6 @@ They are a military and economic alliance that consists of Eastern nations, and 
 
 The bulk of the coalition's military might is divided up into different forces depending on the region that they operate in; as of current, this consists of Mediterranean (Altis), Pacific (Tanoa), and North African (Malden) branches.
 
-</p>
-</details>
-
 <details><summary>History</summary>
 <p>
   
