@@ -18,6 +18,9 @@ nav_order: 3
 ### Are there any air units in the mission?
 > Not yet
 
+### How do I unlock items in the Arsenal?
+> You can't, it is fully limited.
+
 ### How do I get building resources? 
 > From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy).
 
