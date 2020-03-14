@@ -3,7 +3,7 @@ layout: default
 title: Factions
 nav_order: 5
 ---
-
+  
 # Military
 
 # Vanilla
@@ -375,11 +375,12 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
 ## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
 <details><summary>History</summary>
 <p>
 
-"description and image"
+Only 17 months after Adolf Hitler announced publicly the German rearmament program, the army reached its projected goal of 36 divisions. During the autumn of 1937, two more corps were formed. In 1938 four additional corps were formed with the inclusion of the five divisions of the Austrian Army after the Anschluss in March. During the period of its expansion under Hitler, the German Army continued to develop concepts pioneered during World War I, combining ground and air assets into combined arms forces. Coupled with operational and tactical methods such as encirclements and "battle of annihilation", the German military managed quick victories in the two initial years of World War II, a new style of warfare described as Blitzkrieg (lightning war) for its speed and destructive power.
 
 </p>
 </details>
@@ -387,18 +388,21 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 <details><summary>Equipment</summary>
 <p>
 
-"description and image"
+It is a myth that the German Army in World War II was a mechanized juggernaut as a whole. In 1941, between 74 and 80 percent of their forces were not motorized, relying on railroad for rapid movement and on horse-drawn transport cross country. The percentage of motorization decreased thereafter. In 1944 approximately 85 percent was not motorized. The standard uniform used by the German Army consisted of a Feldgrau (field grey) tunic and trousers, worn with a Stahlhelm.
+
+The Germans used a number of type designations for their weapons. Usually, the type designation and series number (i.e. FlaK 30) are sufficient to identify a system, but occasionally multiple systems of the same type are developed at the same time and share a designation, at which point one must reference the calibre to differentiate.
 
 </p>
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+At the start of 1939 the <b>British Army<.b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
 <details><summary>History</summary>
 <p>
 
-"description and image"
+During the early war years the British Army suffered defeat in almost every theatre of war in which it was deployed. But from 1943, starting with the Tunisian Campaign, fortunes changed and the British Army never suffered another strategic defeat, despite some tactical failures (most notably the Battle of Arnhem in September 1944). While there are a number of reasons for this shift, not least the USA joining the Allies from 8 December 1941, an important factor was the stronger British Army. This included better equipment and training, better military intelligence and mass conscription that allowed the British Army to expand to form larger armies and army groups, as well as create new specialist formations such as the Special Air Service, Special Boat Service, Commandos and the Parachute Regiment. Eight men would be promoted to the rank of Field Marshal to command these new armies. By the end of the Second World War 2.9 million men had served in the British Army which had suffered about 300,000 military deaths and 376,239 wounded.
 
 </p>
 </details>
@@ -534,12 +538,15 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
-## [WW2 Heer Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## [WW2 Heer Police (SS)](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)<.b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
 <p>
 
-"description and image"
+The two main constituent groups were the Allgemeine SS (General SS) and Waffen-SS (Armed SS). The Allgemeine SS was responsible for enforcing the racial policy of Nazi Germany and general policing, whereas the Waffen-SS consisted of combat units within Nazi Germany's military. A third component of the SS, the SS-Totenkopfverbände (SS-TV), ran the concentration camps and extermination camps. Additional subdivisions of the SS included the Gestapo and the Sicherheitsdienst (SD) organizations. They were tasked with the detection of actual or potential enemies of the Nazi state, the neutralization of any opposition, policing the German people for their commitment to Nazi ideology, and providing domestic and foreign intelligence.
+
+The SS was the organization most responsible for the genocidal killing of an estimated 5.5 to 6 million Jews and millions of other victims during the Holocaust. Members of all of its branches committed war crimes and crimes against humanity during World War II (1939–45). The SS was also involved in commercial enterprises and exploited concentration camp inmates as slave labor. After Nazi Germany's defeat, the SS and the NSDAP were judged by the International Military Tribunal at Nuremberg to be criminal organizations. Ernst Kaltenbrunner, the highest-ranking surviving SS main department chief, was found guilty of crimes against humanity at the Nuremberg trials and hanged in 1946.
 
 </p>
 </details>
