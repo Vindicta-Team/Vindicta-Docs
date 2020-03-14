@@ -397,7 +397,7 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 ## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-At the start of 1939 the <b>British Army<.b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
+At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
 <details><summary>History</summary>
 <p>
@@ -539,7 +539,7 @@ During the early war years the British Army suffered defeat in almost every thea
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 ## [WW2 Heer Police (SS)](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
-The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)<.b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
+The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
 <p>
