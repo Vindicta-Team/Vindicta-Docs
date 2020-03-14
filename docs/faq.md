@@ -6,37 +6,35 @@ nav_order: 3
 
 # Frequently Asked Questions
 
-### How do we claim an outpost?
+### How do we claim a location?
 > Press U, strategic tab, there should be 'claim' button.
-
-### What is the difference between a camp and an outpost?
-> Currently there is none.
 
 ### How do I open build menu?
 > You must be at an owned location, indicated at the top of the screen, then use mouse wheel (action) menu option.
 
 ### What is "attach to garrison" for? 
-> Use it to take "ownership" of a vehicle, and to ensure that it will respawn when you load your savegame. Must be used at an owned location, like a camp or an outpost. Use it on crates that contain building resources to gain access to them in the build menu.
+> Use it to manually take "ownership" of a vehicle. It must be used at an owned location. Use it on crates that contain building resources to gain access to them in the build menu. Normally all items will be automatically attached to the nearest garrison.
 
 ### Are there any air units in the mission?
 > Not yet
 
 ### How do I get building resources? 
-> From ammoboxes found in enemy police stations and outposts.
+> From ammoboxes found in enemy [police](police) stations and [military locations](military-locations), and from [supply convoys](military#supply-convoy).
 
 ### What mods are compatible?
-> No AI mods are compatible, and no other mods are officially supported, although they may work without problems. 
+> Those which are ran on the dev server are officially supported, all others are not (even though they may work without problems). 
 
 ### Where do I find the .RPT file?
-> Paste in explorer: `%LOCALAPPDATA%/Arma 3`
+> Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))
 
 ### Will there be singleplayer mode?
-> It is implemented already, but not well tested. Self hosted MP is still recommended.
+> It is implemented already, but not well tested. Dedicated MP is best, self hosted MP is second best.
 
 ### I can't find the mission in game??
 > Host a MP game:
 > ![Screenshot](https://cdn.discordapp.com/attachments/553300822583279616/666270214983254044/unknown.png)
 > If it's not there, make sure you've loaded CBA and ACE.
+> See [trouble shooting](trouble-shooting).
 
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
@@ -54,13 +52,13 @@ nav_order: 3
 > {
 >     class vin001
 >     {
->         template = "Vindicta_Altis_v0_24_186.Altis";
+>         template = "Vindicta_Altis_v0_37_11.Altis";
 >         difficulty = "veteran";
 >         class Params {};
 >     };
 >     class vin002
 >     {
->         template = "Vindicta_Enoch_v0_24_187.Enoch";
+>         template = "Vindicta_Enoch_v0_37_11.Enoch";
 >         difficulty = "veteran";
 >         class Params {};
 >     };
@@ -71,7 +69,7 @@ nav_order: 3
 > Not now because it would require large scale code changes. Maybe later.
 
 ### Where are the saved games stored?
-> In the `vars.arma3profile` file
+> In the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
 
 ### When?
 > When it's done
