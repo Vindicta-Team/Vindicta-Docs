@@ -19,7 +19,7 @@ nav_order: 3
 > Not yet
 
 ### How do I get building resources? 
-> From ammoboxes found in enemy [police](police) stations and [military locations](military-locations), and from [supply convoys](military#supply-convoy).
+> From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy).
 
 ### What mods are compatible?
 > Those which are ran on the dev server are officially supported, all others are not (even though they may work without problems). 
@@ -34,7 +34,7 @@ nav_order: 3
 > Host a MP game:
 > ![Screenshot](https://cdn.discordapp.com/attachments/553300822583279616/666270214983254044/unknown.png)
 > If it's not there, make sure you've loaded CBA and ACE.
-> See [trouble shooting](trouble-shooting).
+> See [troubleshooting](troubleshooting).
 
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
