@@ -723,7 +723,7 @@ The SS was the organization most responsible for the genocidal killing of an est
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [GM_Civilians]()
+## [GM Civilians]()
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
