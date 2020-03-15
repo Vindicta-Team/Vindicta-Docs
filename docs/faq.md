@@ -18,6 +18,9 @@ nav_order: 3
 ### Are there any air units in the mission?
 > Not yet
 
+### What mods do I need to play this faction?
+> [All are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions.html)
+
 ### How do I unlock items in the Arsenal?
 > You can't, it is fully limited.
 
