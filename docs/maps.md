@@ -82,7 +82,7 @@ nav_order: 6
 
 <b>Map by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [1994 Staszow, Poland](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## [1944 Staszow, Poland](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 
 <details><summary>History</summary>
 <p>
