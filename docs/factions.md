@@ -41,6 +41,7 @@ At both the squad and company level, AAF weapon teams utilise the Titan MPRL for
 </details>
 
 <b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## LDF
 The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
 
@@ -84,6 +85,7 @@ While the majority of ground troops have access to night vision equipment like t
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
 ## NATO
 The <b>North Atlantic Treaty Organization (alternately known as the North Atlantic Alliance and shortened to NATO or OTAN in French)</b> is a multi-national BLUFOR faction that has been featured in ArmA: Cold War Assault, ArmA 2 and ArmA 3.
 
@@ -132,6 +134,7 @@ Depending on whether NBC threats to humans are present, MOPP gear may also be di
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## CSAT
 The <b>Canton Protocol Strategic Alliance Treaty (alternately CSAT for short, and in Simplified Chinese: 广东条约战略联盟组织)</b> is an OPFOR faction in ArmA 3.
 
@@ -215,6 +218,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS AAF 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 
 <details><summary>History</summary>
@@ -234,6 +238,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS LDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
 
 <details><summary>History</summary>
@@ -253,6 +258,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS HIDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
 
 <details><summary>History</summary>
@@ -272,6 +278,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS LDF NATO](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
 
 <details><summary>History</summary>
@@ -291,6 +298,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
+
 ## [RHS AFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019691680)
 
 <details><summary>History</summary>
@@ -310,6 +318,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
 
 <details><summary>History</summary>
@@ -329,6 +338,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [3CB BAF]()
 
 <details><summary>History</summary>
@@ -348,6 +358,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## [RAF 2035]()
 
 <details><summary>History</summary>
@@ -367,6 +378,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## [Bundeswehr 2020]()
 
 <details><summary>History</summary>
@@ -386,6 +398,67 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## [RHS-BW Fleck Custom]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
+
+## [RHS-BW-Niarms Fleck Custom]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
+
+## [GM West Germany]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 ## [CUP TKA](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)
 
 <details><summary>History</summary>
@@ -405,6 +478,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
+
 ## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
@@ -428,6 +502,7 @@ The Germans used a number of type designations for their weapons. Usually, the t
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
 ## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
@@ -453,7 +528,7 @@ During the early war years the British Army suffered defeat in almost every thea
 
 # Vanilla
 
-## Police
+## Arma 3 Police
 
 <details><summary>History</summary>
 <p>
@@ -474,7 +549,6 @@ During the early war years the British Army suffered defeat in almost every thea
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
 # Custom
-
 ## [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 
 <details><summary>History</summary>
@@ -494,6 +568,7 @@ During the early war years the British Army suffered defeat in almost every thea
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS LDF Ranger](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
 
 <details><summary>History</summary>
@@ -513,6 +588,7 @@ During the early war years the British Army suffered defeat in almost every thea
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)
 
 <details><summary>History</summary>
@@ -532,6 +608,7 @@ During the early war years the British Army suffered defeat in almost every thea
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
 ## [RHS LDF NATO Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
 
 <details><summary>History</summary>
@@ -551,6 +628,27 @@ During the early war years the British Army suffered defeat in almost every thea
 </details>
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
+
+## [GM Western Germany Police]()
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 ## [GSG9]()
 
 <details><summary>History</summary>
@@ -570,6 +668,7 @@ During the early war years the British Army suffered defeat in almost every thea
 </details>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## [WW2 Heer Police (SS)](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
@@ -593,6 +692,7 @@ The SS was the organization most responsible for the genocidal killing of an est
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
 ## [WW2 UK Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 
 <details><summary>History</summary>
@@ -612,6 +712,21 @@ The SS was the organization most responsible for the genocidal killing of an est
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+# Civilians
+
+## Arma 3 Altis Civilians
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## [GM_Civilians]()
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 <br>
 <br>
 You need ACE compatibility mods for  RHS and CUP.<br>
