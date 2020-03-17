@@ -42,7 +42,7 @@ At both the squad and company level, AAF weapon teams utilise the Titan MPRL for
 
 <b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## LDF
+## LDF (Next Update)
 The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
 
 <details><summary>History</summary>
@@ -339,7 +339,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [3CB BAF]()
+## [3CB BAF]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -359,7 +359,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RAF 2035]()
+## [RAF 2035]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -379,7 +379,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [Bundeswehr 2020]()
+## [Bundeswehr 2020]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -399,7 +399,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RHS-BW Fleck Custom]()
+## [RHS-BW Fleck Custom]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -419,7 +419,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [RHS-BW-Niarms Fleck Custom]()
+## [RHS-BW-Niarms Fleck Custom]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -439,7 +439,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [GM West Germany]()
+## [GM West Germany]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -593,7 +593,7 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)
+## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071) (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -633,7 +633,7 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## [GM Western Germany Police]()
+## [GM Western Germany Police]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -653,7 +653,7 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [GSG9]()
+## [GSG9]() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -718,36 +718,33 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-# Civilians
+# Civilians (Next Update)
 
-## Arma 3 Altis Civilians
-
-<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
-
-## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## Arma 3 Altis Civilians (Next Update)
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [GM Civilians]()
+## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## [GM Civilians]() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP Takistan Civilians]()
+## [CUP Takistan Civilians]() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP Europe Civilians]()
+## [CUP Europe Civilians]() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-You need ACE compatibility mods for  RHS and CUP.
-
+You need ACE compatibility mods for  RHS and CUP.<br>
 If you choose base game Arma 3 factions, you do NOT need any mods!
 
-What mods do I need to play with this faction?
-
-Click on highlighted faction name and download the whole collection.
-
+What mods do I need to play with this faction?<br>
+Click on highlighted faction name and download the whole collection.<br>
 Note that some factions don't have required collections created.
 
 
