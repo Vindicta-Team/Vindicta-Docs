@@ -399,7 +399,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RHS-BW Fleck Custom]() (Next Update)
+## [RHS-BW Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631) (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -419,7 +419,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [RHS-BW-Niarms Fleck Custom]() (Next Update)
+## [RHS-BW-Niarms Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621) (Next Update)
 
 <details><summary>History</summary>
 <p>
