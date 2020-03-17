@@ -532,11 +532,12 @@ British Army used lots of different equipment bought from the USA or mostly self
 # Vanilla
 
 ## Arma 3 Police
+The <b>Arma 3 Police (or Gendarmerie)</b> is a BLUFOR faction in ArmA 3. It was added with the release of the Apex DLC.
 
 <details><summary>History</summary>
 <p>
 
-"description and image"
+The police forces are different all around the world, but this police department is realy interesting since it's basically the copy of Horizon Islands Gendarmerie.
 
 </p>
 </details>
@@ -544,7 +545,7 @@ British Army used lots of different equipment bought from the USA or mostly self
 <details><summary>Equipment</summary>
 <p>
 
-"description and image"
+Equipment used by gendarmes isn't the best quality and price mostly because the lack of founding from the government and the poor performance of the officers. The weapons they use are mostly pistols with few submachine guns. There ballistic protection is really poor only small amount of gendarmes wears Bulletproof vests. To this day there isn't a Special Police Force in this department so officers usually use the Basic Ballistic Helmets and Raven Vests for their needs.
 
 </p>
 </details>
