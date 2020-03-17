@@ -599,7 +599,7 @@ The <b>Altis Police Department (or simply the APD)</b> is a police force heavily
 <details><summary>History</summary>
 <p>
 
-The original police force of Altis was formed in 1819 which was later reformed after US intervention in Mediterranean. Under US occupation of the island the "Grate Reform" of Republic of Altis and Stratis started, focusing on reforming the government and political system. One of the biggest question was the law system in the small republic. The President of USA and the newly elected President of Republic of Altis and Stratis chose to adapt the "US police style" force, while not changing the base law system.
+The original police force of Altis was formed in 1819 which was later reformed after US intervention in Mediterranean. Under US occupation of the island the "Grate Reform" of Republic of Altis and Stratis started, focusing on reforming the government and political system. One of the biggest questions was the law system in the small republic. The President of USA and the newly elected President of Republic of Altis and Stratis chose to adapt the "US police style" force, while not changing the base law system.
 
 </p>
 </details>
