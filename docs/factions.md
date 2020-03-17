@@ -339,7 +339,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [3CB BAF]() (Next Update)
+## [3CB BAF](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163) (Next Update)
 
 <details><summary>History</summary>
 <p>
