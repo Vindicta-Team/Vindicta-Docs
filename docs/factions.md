@@ -726,7 +726,15 @@ The SS was the organization most responsible for the genocidal killing of an est
 ## [GM Civilians]()
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
-<br>
+
+## [CUP Takistan Civilians]()
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
+## [CUP Europe Civilians]()
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 You need ACE compatibility mods for  RHS and CUP.
 
 If you choose base game Arma 3 factions, you do NOT need any mods!
