@@ -493,7 +493,10 @@ Only 17 months after Adolf Hitler announced publicly the German rearmament progr
 <details><summary>Equipment</summary>
 <p>
 
-It is a myth that the German Army in World War II was a mechanized juggernaut as a whole. In 1941, between 74 and 80 percent of their forces were not motorized, relying on railroad for rapid movement and on horse-drawn transport cross country. The percentage of motorization decreased thereafter. In 1944 approximately 85 percent was not motorized. The standard uniform used by the German Army consisted of a Feldgrau (field grey) tunic and trousers, worn with a Stahlhelm.
+It is a myth that the German Army in World War II was a mechanized juggernaut as a whole. In 1941, between 74 and 80 percent of their forces were not motorized, relying on railroad for rapid movement and on horse-drawn transport cross country. The percentage of motorization decreased thereafter. In 1944 approximately 85 percent was not motorized. The standard uniform used by the German Army consisted of a Feldgrau (field grey) tunic and trousers, worn with a Stahlhelm.<br>
+
+
+The German Army was known to be using lots of captured Soviet, USA, UK equipment, a grate example of such usage was Panzer Brigade 150 which used captured USA and UK tanks.
 
 
 The Germans used a number of type designations for their weapons. Usually, the type designation and series number (i.e. FlaK 30) are sufficient to identify a system, but occasionally multiple systems of the same type are developed at the same time and share a designation, at which point one must reference the calibre to differentiate.
@@ -517,7 +520,7 @@ During the early war years the British Army suffered defeat in almost every thea
 <details><summary>Equipment</summary>
 <p>
 
-"description and image"
+British Army used lots of different equipment bought from the USA or mostly self-made. British Army rarely used captured German equipment. Thought the war there most used guns where Lee-Enfield and Sten. One of the most iconic part of British Army from that time period where their helmets known as Brodie helmets.
 
 </p>
 </details>
@@ -686,7 +689,7 @@ The SS was the organization most responsible for the genocidal killing of an est
 <details><summary>Equipment</summary>
 <p>
 
-"description and image"
+Equipment used by SS was identical as Heer, only difference being camouflages such as: Palmenmuster, Eichenlaubmuster, Erbsenmuster. 
 
 </p>
 </details>
@@ -694,11 +697,12 @@ The SS was the organization most responsible for the genocidal killing of an est
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
 ## [WW2 UK Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
 <details><summary>History</summary>
 <p>
 
-"description and image"
+During the early war years the British Army suffered defeat in almost every theatre of war in which it was deployed. But from 1943, starting with the Tunisian Campaign, fortunes changed and the British Army never suffered another strategic defeat, despite some tactical failures (most notably the Battle of Arnhem in September 1944). While there are a number of reasons for this shift, not least the USA joining the Allies from 8 December 1941, an important factor was the stronger British Army. This included better equipment and training, better military intelligence and mass conscription that allowed the British Army to expand to form larger armies and army groups, as well as create new specialist formations such as the Special Air Service, Special Boat Service, Commandos and the Parachute Regiment. Eight men would be promoted to the rank of Field Marshal to command these new armies. By the end of the Second World War 2.9 million men had served in the British Army which had suffered about 300,000 military deaths and 376,239 wounded.
 
 </p>
 </details>
@@ -706,7 +710,7 @@ The SS was the organization most responsible for the genocidal killing of an est
 <details><summary>Equipment</summary>
 <p>
 
-"description and image"
+British Army used lots of different equipment bought from the USA or mostly self-made. British Army rarely used captured German equipment. Thought the war there most used guns where Lee-Enfield and Sten. One of the most iconic part of British Army from that time period where their helmets known as Brodie helmets.
 
 </p>
 </details>
