@@ -733,11 +733,11 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP Takistan Civilians]() (Next Update)
+## [CUP TAK Civilians]() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP Europe Civilians]() (Next Update)
+## [CUP RUS Civilians]() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
