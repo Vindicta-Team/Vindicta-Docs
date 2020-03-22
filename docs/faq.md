@@ -24,6 +24,9 @@ nav_order: 3
 ### How do I unlock items in the Arsenal?
 > You can't, it is fully limited.
 
+### How do I skip time?
+> This isn't officially supported as it can screw with the enemy commander somewhat. However `skipTime 8` will skip 8 hours for you. The enemy commander will immediately dispatch all pending actions, other weird things might happen.
+
 ### How do I get building resources? 
 > From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy).
 
