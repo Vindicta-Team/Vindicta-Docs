@@ -355,7 +355,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## RAF 2035 []() (Next Update)
+## [RAF 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=543460260&searchtext=raf) (Next Update)
 
 <details><summary>History</summary>
 <p>
