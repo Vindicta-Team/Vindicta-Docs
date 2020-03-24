@@ -6,8 +6,6 @@ nav_order: 5
   
 # Military
 
-# Vanilla
-
 ## AAF
 The <b>Altis Armed Forces (or simply the AAF)</b> are an Independent faction in ArmA 3, forming the main military force of the <b>Republic of Altis and Stratis</b>.
 
@@ -196,8 +194,6 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 </details>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
-
-# Custom
 
 ## [RHS AAF 2020](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 
@@ -569,8 +565,6 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 # Police
 
-# Vanilla
-
 ## Arma 3 Police
 The <b>Arma 3 Police (or Gendarmerie)</b> is a BLUFOR faction in ArmA 3. It was added with the release of the Apex DLC.
 
@@ -592,7 +586,6 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-# Custom
 ## [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
 
 <details><summary>History</summary>
@@ -647,7 +640,7 @@ The original police force of Altis was formed in 1819 which was later reformed a
 <details><summary>Equipment</summary>
 <p>
 
-The US government heavily invested in the new APD supporting them with new uniforms, vests, guns, cars. The new police equipment consists of uniform with blue t-shirt with black pants, black police belt, black bulletproof vest, usually a 9 mm pistols but there are still weapons from past the "Grate Reform" used. Most of the police stations have long weapons for use by the officers. Commonly found long weapons in police arsenal are M16, M4, M4A1 alongside some simple weapon attachments. Some stations also have the support of the long range weapons such as M24 Sniper Rifle. The APD is constantly being trained by USAF, so we expect this police force getting even better. 
+The US government heavily invested in the new APD supporting them with new uniforms, vests, guns, cars. The new police equipment consists of uniform with blue t-shirt with black pants, black police belt, black bulletproof vest, usually a 9 mm pistols but there are still weapons used from the past the "Grate Reform". Most of the police stations have long weapons for use by the officers. Commonly found long weapons in police arsenal are M16, M4, M4A1 alongside some simple weapon attachments. Some stations also have the support of the long range weapons such as M24 Sniper Rifle. The APD is constantly being trained by USAF, so we expect this police force getting even better. 
 
 </p>
 </details>
