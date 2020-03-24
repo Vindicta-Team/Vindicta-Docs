@@ -515,7 +515,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
 
-## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Reworked Next Update)
 The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
 <details><summary>History</summary>
@@ -707,7 +707,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Reworked Next Update)
 The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
