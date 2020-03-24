@@ -359,7 +359,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RAF 2035]() (Next Update)
+## RAF 2035 []() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -379,7 +379,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [Bundeswehr 2020]() (Next Update)
+## Bundeswehr 2020 []() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -439,7 +439,47 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [GM West Germany]() (Next Update)
+## GM West Germany []() (Next Update)
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
+## CUP AFRF []() (Next Update)
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
+## CUP USMC []() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -634,7 +674,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## [GM Western Germany Police]() (Next Update)
+## GM Western Germany Police []() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -654,7 +694,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [GSG9]() (Next Update)
+## GSG9 []() (Next Update)
 
 <details><summary>History</summary>
 <p>
@@ -674,7 +714,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [WW2 Heer Police (SS)](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
@@ -729,15 +769,15 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [GM Civilians]() (Next Update)
+## GM Civilians []() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP TAK Civilians]() (Next Update)
+## CUP TAK Civilians []() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP RUS Civilians]() (Next Update)
+## CUP RUS Civilians []() (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
