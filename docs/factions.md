@@ -784,6 +784,22 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
+## [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1962090730&searchtext=Gendarmerie) (Next Update)
+
+<details><summary>History</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
+</p>
+</details>
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 # Civilians (Next Update)
 
 ## Arma 3 Altis Civilians (Next Update)
@@ -803,10 +819,6 @@ British Army used lots of different equipment bought from the USA or mostly self
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
 ## CUP RUS Civilians []() (Next Update)
-
-<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
-
-## CUP RUS Civilians [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=767912608) (Next Update)
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
