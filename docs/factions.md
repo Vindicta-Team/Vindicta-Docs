@@ -455,6 +455,26 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
+## [CUP TKA](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
+
 ## CUP AFRF []() (Next Update)
 
 <details><summary>History</summary>
@@ -495,26 +515,6 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP TKA](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)
-
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<details><summary>Equipment</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
-
 ## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Reworked Next Update)
 The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
@@ -537,6 +537,22 @@ The German Army was known to be using lots of captured Soviet, USA, UK equipment
 
 The Germans used a number of type designations for their weapons. Usually, the type designation and series number (i.e. FlaK 30) are sufficient to identify a system, but occasionally multiple systems of the same type are developed at the same time and share a designation, at which point one must reference the calibre to differentiate.
 
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+## [WW2 Red Army](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+
+<details><summary>History</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
 </p>
 </details>
 
@@ -731,6 +747,22 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
+## [WW2 NKWD](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+
+<details><summary>History</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+  
+</p>
+</details>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
 ## [WW2 UK Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
@@ -774,11 +806,13 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
+## CUP RUS Civilians [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=767912608) (Next Update)
+
+<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
 You need ACE compatibility mods for  RHS and CUP.<br>
 If you choose base game Arma 3 factions, you do NOT need any mods!
 
 What mods do I need to play with this faction?<br>
 Click on highlighted faction name and download the whole collection.<br>
 Note that some factions don't have required collections created.
-
-
