@@ -75,7 +75,9 @@ nav_order: 3
 > If you have got the files from Workshop, then you have addon-type .pbo files, not user-mission-type .pbo files.  
 > You DO NOT need to put them into mpmissions folder.  
 > Make sure the addon is loaded! Treat the workshop download as an addon, it must be loaded with -mod parameters, clients need it to play on your server!  
-> See the server.cfg setup below: note that versions might be different!  
+> If you want your dedicated server to automatically select the mission when first player joins, you can use the `class Missions` below. It is only needed if you want automatic mission selection. If you do not add `class Missions` to server.cfg, you will see a usual mission selection screen. When doing a dedicated server setup, try it without `class Missions` first to see if all mods are loaded, then, if you want, you can try to do `class Missions` setup.
+> See the server.cfg setup below: note that versions might be different! Ensure that versions are correct! To see the version which must be specified, go to `!Workshop\Vindicta (Alpha)\addons` folder and locate the .pbo file which has the version name in it.
+> Ensure that specified `template` is correct, note that the map name is listed twice!
 > ```cpp
 > class Missions
 > {
