@@ -6,6 +6,19 @@ nav_order: 3
 
 # Frequently Asked Questions
 
+# Mods
+
+### What mods are compatible?
+> Those which are ran on the dev server are officially supported, all others are not (even though they may work without problems). 
+
+### What mods are incompatible?
+> All AI mods are incompatible, for instance VCOM AI. Only exception is mods which do not make bots steal vehicles and do not change their weaypoints (for instance, LAMBS danger.fsm). If you play with any AI mods, do not report any AI related problem.
+
+### What mods do I need to play with a specific faction?
+> [All are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions.html)
+
+# Gameplay and current features
+
 ### How do we claim a location?
 > Press U, strategic tab, there should be 'claim' button.
 
@@ -18,9 +31,6 @@ nav_order: 3
 ### Are there any air units in the mission?
 > Not yet
 
-### What mods do I need to play this faction?
-> [All are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions.html)
-
 ### How do I unlock items in the Arsenal?
 > You can't, it is fully limited.
 
@@ -30,26 +40,36 @@ nav_order: 3
 ### How do I get building resources? 
 > From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy).
 
-### What mods are compatible?
-> Those which are ran on the dev server are officially supported, all others are not (even though they may work without problems). 
-
-### Where do I find the .RPT file?
-> Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))
-
-### Will there be singleplayer mode?
-> It is implemented already, but not well tested. Dedicated MP is best, self hosted MP is second best.
-
-### I can't find the mission in game??
-> Host a MP game:
-> ![Screenshot](https://cdn.discordapp.com/attachments/553300822583279616/666270214983254044/unknown.png)
-> If it's not there, make sure you've loaded CBA and ACE.
-> See [troubleshooting](troubleshooting).
+### How do I play the mission in singleplayer?
+> It is implemented already, you can play it in singleplayer through SP Scenarios tab in the main menu. But it is not well tested. Dedicated MP is best, self hosted MP is second best.
 
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
 
 ### How can I skip time?
 > This isn't recommended as the delayed actions and intel timestamps the AI uses will be invalidated, however you can use server `skipTime` command if necessary (expect interesting results).
+
+# Future features
+
+### Will there be money?
+> No.
+
+### Will there be economics?
+> No.
+
+### Will there be factories to build vehicles and weapons for us?
+> No.
+
+### But another well known Arma scenario called "Antistasi" has a feature ...
+> Okay?
+
+# Technical
+
+### Is there Headless Client Support?
+> Not now because it would require large scale code changes. Maybe later.
+
+### Where are the saved games stored?
+> In the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
 
 ### How do I run it on a dedicated server?
 > If you have got the files from Workshop, then you have addon-type .pbo files, not user-mission-type .pbo files.  
@@ -74,11 +94,18 @@ nav_order: 3
 > };
 > ```  
 
-### Headless Client Support?
-> Not now because it would require large scale code changes. Maybe later.
+### Where do I find the .RPT file?
+> Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))
 
-### Where are the saved games stored?
-> In the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
+# Common issues
+
+### I can't find the mission in game
+> Host a MP game:
+> ![Screenshot](https://cdn.discordapp.com/attachments/553300822583279616/666270214983254044/unknown.png)
+> If it's not there, make sure you've loaded CBA and ACE.
+> See [troubleshooting](troubleshooting).
+
+# Other questions
 
 ### When?
 > When it's done
