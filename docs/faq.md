@@ -46,22 +46,13 @@ nav_order: 3
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
 
-### How can I skip time?
-> This isn't recommended as the delayed actions and intel timestamps the AI uses will be invalidated, however you can use server `skipTime` command if necessary (expect interesting results).
-
 # Future features
 
-### Will there be money?
-> No.
+### Will there be money, economics, or factories to build vehicles or weapons?
+> No, features of this kind are totally not in our plan.
 
-### Will there be economics?
-> No.
-
-### Will there be factories to build vehicles and weapons for us?
-> No.
-
-### But another well known Arma scenario called "Antistasi" has a feature ...
-> Okay?
+### But another mod/scenario has a feature ...
+> We don't aim to have as many features as possible. Our main focus is the military part of the game.
 
 # Technical
 
