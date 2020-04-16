@@ -61,7 +61,7 @@ timeStampFormat = "none";
 
 class Missions
 {
-	class VindictaMalden
+	class Vindicta
 	{
 		template = Vindicta_Altis_v0_37_11.Altis;
 		difficulty = "recruit";
