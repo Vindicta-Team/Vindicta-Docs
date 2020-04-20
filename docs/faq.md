@@ -46,6 +46,20 @@ nav_order: 3
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
 
+# Zeus
+
+### How can I open Zeus interface?
+> You can use ACE Zeus feature. Make sure it is setup correctly, for that go to eskape/Addon Options/ACE Zeus and enable it there. After that you can access Zeus by using ACE self interaction/Create Zeus button, and pressing Y after that.
+
+### Are vehicles created with Zeus saved?
+> No they are not saved.
+
+### Is it possible to save vehicles created with Zeus by running extra code in console or other methods?
+> No, because our framework is based on strict enumeration of unit types, therefore it can only operate with units created by our own framework.
+
+### Is it likely that this problem will be solved in the future versions?
+> No, it is very unlikely.
+
 # Future features
 
 ### Will there be money, economics, or factories to build vehicles or weapons?
