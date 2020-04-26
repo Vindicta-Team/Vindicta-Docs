@@ -40,7 +40,7 @@ At both the squad and company level, AAF weapon teams utilise the Titan MPRL for
 
 <b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## LDF (Next Update)
+## LDF
 The <b>Livonian Defense Force (shortened to LDF)</b> is an Independent faction in ArmA 3. It was added with the release of the Contact DLC.
 
 <details><summary>History</summary>
@@ -335,7 +335,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [3CB BAF](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163) (Next Update)
+## [3CB BAF](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163)
 
 <details><summary>History</summary>
 <p>
@@ -355,7 +355,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RAF 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=543460260&searchtext=raf) (Next Update)
+## [RAF 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=543460260&searchtext=raf)
 
 <details><summary>History</summary>
 <p>
@@ -375,7 +375,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## Bundeswehr 2020 []() (Next Update)
+## Bundeswehr 2020 []()
 
 <details><summary>History</summary>
 <p>
@@ -395,7 +395,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RHS-BW Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621) (Next Update)
+## [RHS-BW Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621)
 
 <details><summary>History</summary>
 <p>
@@ -415,7 +415,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [RHS-BW-Niarms Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631) (Next Update)
+## [RHS-BW-Niarms Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631)
 
 <details><summary>History</summary>
 <p>
@@ -435,7 +435,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## GM West Germany []() (Next Update)
+## GM West Germany []()
 
 <details><summary>History</summary>
 <p>
@@ -475,7 +475,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
 
-## CUP AFRF []() (Next Update)
+## CUP AFRF []()
 
 <details><summary>History</summary>
 <p>
@@ -495,7 +495,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP USMC []() (Next Update)
+## CUP USMC []()
 
 <details><summary>History</summary>
 <p>
@@ -515,7 +515,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Reworked Next Update)
+## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
 <details><summary>History</summary>
@@ -542,7 +542,7 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 Red Army](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+## [WW2 Red Army](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 
 <details><summary>History</summary>
 <p>
@@ -642,7 +642,7 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071) (Next Update)
+## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)
 The <b>Altis Police Department (or simply the APD)</b> is a police force heavily supported by the US government with equipment and training.
 
 <details><summary>History</summary>
@@ -683,7 +683,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## GM Western Germany Police []() (Next Update)
+## GM Western Germany Police []()
 
 <details><summary>History</summary>
 <p>
@@ -703,7 +703,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## GSG9 []() (Next Update)
+## GSG9 []()
 
 <details><summary>History</summary>
 <p>
@@ -723,7 +723,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Reworked Next Update)
+## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
@@ -747,7 +747,7 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 NKWD](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+## [WW2 NKWD](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
 
 <details><summary>History</summary>
 <p>
@@ -784,7 +784,7 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1962090730&searchtext=Gendarmerie) (Next Update)
+## [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1962090730&searchtext=Gendarmerie)
 
 <details><summary>History</summary>
 <p>
@@ -800,25 +800,25 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-# Civilians (Next Update)
+# Civilians
 
-## Arma 3 Altis Civilians (Next Update)
-
-<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
-
-## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949) (Next Update)
+## Arma 3 Altis Civilians
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## GM Civilians []() (Next Update)
+## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## GM Civilians []()
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP TAK Civilians []() (Next Update)
+## CUP TAK Civilians []()
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP RUS Civilians []() (Next Update)
+## CUP RUS Civilians []()
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
