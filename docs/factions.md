@@ -195,7 +195,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS AAF 2020](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
+## RHS AAF 2020
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)</b>
 
 <details><summary>History</summary>
 <p>
@@ -215,7 +217,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS AAF 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
+## RHS AAF 2010
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)</b>
 
 <details><summary>History</summary>
 <p>
@@ -235,7 +239,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS LDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
+## RHS LDF
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <details><summary>History</summary>
 <p>
@@ -255,7 +261,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS HIDF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
+## RHS HIDF
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <details><summary>History</summary>
 <p>
@@ -275,7 +283,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS LDF NATO](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
+## RHS LDF NATO
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <details><summary>History</summary>
 <p>
@@ -295,7 +305,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## [RHS AFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=2019691680)
+## RHS AFRF
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019691680)</b>
 
 <details><summary>History</summary>
 <p>
@@ -315,7 +327,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
+## RHS USAF
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)</b>
 
 <details><summary>History</summary>
 <p>
@@ -335,7 +349,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [3CB BAF](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163)
+## 3CB BAF
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163)</b>
 
 <details><summary>History</summary>
 <p>
@@ -355,7 +371,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RAF 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=543460260&searchtext=raf)
+## RAF 2035
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=543460260&searchtext=raf)</b>
 
 <details><summary>History</summary>
 <p>
@@ -375,7 +393,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## Bundeswehr 2020 []()
+## Bundeswehr 2020
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -395,7 +415,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [RHS-BW Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621)
+## RHS-BW Fleck Custom
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621)</b>
 
 <details><summary>History</summary>
 <p>
@@ -415,7 +437,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## [RHS-BW-Niarms Fleck Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631)
+## RHS-BW-Niarms Fleck Custom
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631)</b>
 
 <details><summary>History</summary>
 <p>
@@ -435,7 +459,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## GM West Germany []()
+## GM West Germany
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -455,7 +481,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [CUP TKA](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)
+## CUP TKA
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)</b>
 
 <details><summary>History</summary>
 <p>
@@ -475,7 +503,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [MacTheGoon](https://github.com/MacTheGoon)</b><br>
 
-## CUP AFRF []()
+## CUP AFRF
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -495,7 +525,9 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP USMC []()
+## CUP USMC
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -515,7 +547,10 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [WW2 Heer](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 Heer
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
+
 The <b>German Army (German: Heer. Army)</b> was the land forces component of the Wehrmacht, the regular German Armed Forces, from 1935 until it ceased to exist in 1945 and then formally dissolved in August 1946. During World War II, a total of about 13.6 million soldiers served in the German Army. Army personnel were made up of volunteers and conscripts.
 
 <details><summary>History</summary>
@@ -542,7 +577,9 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 Red Army](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 Red Army
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
 <details><summary>History</summary>
 <p>
@@ -558,7 +595,10 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 UK](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 UK
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
+
 At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
 <details><summary>History</summary>
@@ -602,7 +642,9 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [RHS AAF Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)
+## RHS AAF Police
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019672556)</b>
 
 <details><summary>History</summary>
 <p>
@@ -622,7 +664,9 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS LDF Ranger](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
+## RHS LDF Ranger
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <details><summary>History</summary>
 <p>
@@ -642,7 +686,10 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [RHS APD](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)
+## RHS APD
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)</b>
+
 The <b>Altis Police Department (or simply the APD)</b> is a police force heavily supported by the US government with equipment and training.
 
 <details><summary>History</summary>
@@ -656,14 +703,16 @@ The original police force of Altis was formed in 1819 which was later reformed a
 <details><summary>Equipment</summary>
 <p>
 
-The US government heavily invested in the new APD supporting them with new uniforms, vests, guns, cars. The new police equipment consists of uniform with blue t-shirt with black pants, black police belt, black bulletproof vest, usually a 9 mm pistols but there are still weapons used from the past the "Grate Reform". Most of the police stations have long weapons for use by the officers. Commonly found long weapons in police arsenal are M16, M4, M4A1 alongside some simple weapon attachments. Some stations also have the support of the long range weapons such as M24 Sniper Rifle. The APD is constantly being trained by USAF, so we expect this police force getting even better. 
+The US government heavily invested in the new APD supporting them with new uniforms, vests, guns, cars. The new police equipment consists of uniform with blue t-shirt with black pants, black police belt, black bulletproof vest, usually a 9 mm pistols but there are still weapons used from the past the "Grate Reform". Most of the police stations have long weapons for use by the officers. Commonly found long weapons in police arsenal are M16, M4, M4A1 alongside some simple weapon attachments. The APD is constantly being trained by USAF, so we expect this police force getting even better. 
 
 </p>
 </details>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [RHS LDF NATO Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)
+## RHS LDF NATO Police
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <details><summary>History</summary>
 <p>
@@ -683,7 +732,9 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## GM Western Germany Police []()
+## GM Western Germany Police 
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -703,7 +754,9 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## GSG9 []()
+## GSG9
+
+<b>[Required Mods]() (No collection created yet)</b>
 
 <details><summary>History</summary>
 <p>
@@ -723,7 +776,10 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## [WW2 SS](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 SS
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
+
 The <b>Schutzstaffel (SS; also stylized as ᛋᛋ with Armanen runes)</b> was a major paramilitary organization under Adolf Hitler and the Nazi Party (NSDAP) in Nazi Germany, and later throughout German-occupied Europe during World War II.
 
 <details><summary>History</summary>
@@ -747,7 +803,9 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 NKWD](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 NKWD
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
 <details><summary>History</summary>
 <p>
@@ -763,7 +821,10 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [WW2 UK Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 UK Police
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
+
 At the start of 1939 the <b>British Army</b> was a small volunteer professional army. At the beginning of the Second World War, 3 September 1939, the British Army was small in comparison to its enemies, as it had been in the First World War. It also quickly became evident that the initial structure and manpower of the British Army were woefully unprepared and ill-equipped for a war with multiple enemies on multiple fronts.
 
 <details><summary>History</summary>
@@ -784,7 +845,9 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [Gendarmarie Exp Police](https://steamcommunity.com/sharedfiles/filedetails/?id=1962090730&searchtext=Gendarmerie)
+## Gendarmarie Exp Police
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1962090730&searchtext=Gendarmerie)</b>
 
 <details><summary>History</summary>
 <p>
@@ -806,25 +869,29 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [WW2 Civilians](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## WW2 Civilians
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## GM Civilians []()
+## GM Civilians
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP TAK Civilians []()
+## CUP TAK Civilians
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP RUS Civilians []()
+## CUP RUS Civilians
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
 You need ACE compatibility mods for  RHS and CUP.<br>
 If you choose base game Arma 3 factions, you do NOT need any mods!
-
-What mods do I need to play with this faction?<br>
-Click on highlighted faction name and download the whole collection.<br>
-Note that some factions don't have required collections created.
