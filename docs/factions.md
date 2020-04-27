@@ -756,7 +756,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 ## GSG9
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1508895664)</b>
 
 <details><summary>History</summary>
 <p>
