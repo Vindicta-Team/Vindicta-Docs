@@ -8,84 +8,40 @@ nav_order: 6
 
 ## Altis
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
 <b>Map made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [Enoch](https://store.steampowered.com/app/1021790/Arma_3_Contact/)
+## Enoch
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required DLC](https://store.steampowered.com/app/1021790/Arma_3_Contact/)</b>
 
 <b>Map by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
 ## Malden
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required DLC](https://store.steampowered.com/app/639600/Arma_3_Malden/)</b>
 
 <b>Map by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## [Tembelan](https://steamcommunity.com/workshop/filedetails/?id=1252091296)
+## Tembelan
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=1252091296)</b>
 
 <b>Map by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## [Beketov](https://steamcommunity.com/sharedfiles/filedetails/?id=743968516)
+## Beketov
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=743968516)</b>
 
 <b>Map by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [Weferlingen](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)
+## Weferlingen
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
 <b>Map by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## [1944 Staszow, Poland](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)
+## 1944 Staszów, Poland
 
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
 <b>Map by [Panda/rc95](https://github.com/rc95)</b><br>
