@@ -395,7 +395,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## Bundeswehr 2020
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=1200127537)</b>
 
 <details><summary>History</summary>
 <p>
@@ -461,7 +461,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## GM West Germany
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
 <details><summary>History</summary>
 <p>
@@ -505,7 +505,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## CUP AFRF
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=583575232)</b>
 
 <details><summary>History</summary>
 <p>
@@ -527,7 +527,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## CUP USMC
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=583575232)</b>
 
 <details><summary>History</summary>
 <p>
@@ -734,7 +734,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 ## GM Western Germany Police 
 
-<b>[Required Mods]() (No collection created yet)</b>
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
 <details><summary>History</summary>
 <p>
@@ -877,19 +877,19 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 ## GM Civilians
 
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
 ## CUP TAK Civilians
 
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=583575232)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
 ## CUP RUS Civilians
 
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
+<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=583575232)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
