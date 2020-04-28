@@ -395,7 +395,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## Bundeswehr 2020
 
-<b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=1200127537)</b>
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2076938825)</b>
 
 <details><summary>History</summary>
 <p>
