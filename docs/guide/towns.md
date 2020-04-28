@@ -53,11 +53,11 @@ If you can find the bombers you can direct their actions, or request their IEDs 
 
 ### <span style="color:green">`LIBERATED`</span>
 
-Once instability reaches 100% the town can be liberated. For this to happen your forces must out number enemies in the town by 2 to 1. 
+Towns can only be liberated by occupying them with your own forces. Recruit units at a camp and send them to reinforce the town. They must outnumber enemies (police and miliary) in the area by 2 to 1 to liberate.  
 A liberated town may spawn friendly police, and will no longer be the target of police reinforcements.  
 
 ### <span style="color:red">`SUPPRESSED`</span>
 
 If the enemy occupies a liberated town it will become suppressed.  
 While suppressed the towns instability will revert to 0%, and you will gain no recruits there.  
-You can re-liberate the town using your own forces, again by out numbering the enemy 2 to 1.
+You can re-liberate the town using your own forces, again by occupying it and out numbering the enemy 2 to 1.
