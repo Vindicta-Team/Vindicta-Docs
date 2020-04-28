@@ -22,7 +22,7 @@ To play single player just look for the mission in the SP mission list.
 
 1. Wait for the mission to load
 2. Configure Vindicta settings
-<iframe width="960" height="540" src="https://youtu.be/OREpQU6OcWQ" frameborder="0" allowfullscreen/>
+{% youtube OREpQU6OcWQ %}
 2. Press the U button to bring up the menu
 3. Select `CREATE`
 4. Specify a `CAMPAIGN NAME`
