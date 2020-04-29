@@ -39,6 +39,11 @@ This video shows hosting a local server and creating a new campaign:
 
 ### Pay attention to your undercover monitor
 
+
+![image](https://user-images.githubusercontent.com/1453936/80550818-3935be80-89b9-11ea-87c1-cbcf5d4c103e.png)
+
+![image](https://user-images.githubusercontent.com/1453936/80550842-4c488e80-89b9-11ea-923b-3026b7fe3ca8.png)
+
 This will warn you if your actions or appearence are drawing suspicion. Bear in mind that some things 
 might not be considered suspicious unless you are being observed directly.
 
@@ -60,7 +65,7 @@ If you destroy the enemies trucks he will have to go on foot, if you block a rou
 
 ### Pay Attention To Intel
 
-Knowledge is power -- you can catch wind of enemy locations, and movements hours before they happen, 
+Knowledge is power -- you can learn of locations, and catch wind of enemy movements hours before they happen, 
 giving you the chance to evade, intercept, or ambush.
 
 ## Your First Day
