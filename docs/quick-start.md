@@ -20,6 +20,9 @@ To play single player just look for the mission in the SP mission list.
 
 ## Starting a New Game
 
+This video shows hosting a local server and creating a new campaign:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/of91ucToruA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 1. Wait for the mission to load
 2. Configure Vindicta settings
     <iframe width="640" height="360" src="https://www.youtube.com/embed/OREpQU6OcWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
@@ -30,7 +33,7 @@ To play single player just look for the mission in the SP mission list.
 7. Optionally change `INITIAL ENEMY %` -- this specifies how populated the initially held military positions will be
 8. Click `START`
 9. Wait for the initialization process to complete -- this can take a minute or two
-10. You should now be able to select the initial spawn point (a red box) to spawn at.
+10. You should now be able to select the initial spawn point (an orange box) to spawn at.
 
 ## Some Tips Before You Start
 
