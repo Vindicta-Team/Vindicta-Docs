@@ -10,8 +10,8 @@ nav_order: 7
 
 **Don't just blindly copy this, make sure your paths, mod, config names, and version numbers are correct. This is just an example!**  
 For automatic loading and starting of the mission you need to enable persistent battle field (`persistent = 1;`) in the config file, and pass `-autoInit` on the command line.  
-You should also enable `Auto Load`, `Auto Save`, and `Suspend when empty` in Addon Options (make sure you set them in the Server section):
-![image](https://user-images.githubusercontent.com/1453936/80655375-61cfbe00-8a76-11ea-99f2-abba2c9af6ba.png)  
+You should also enable `Auto Load`, `Auto Save`, and `Suspend when empty` in Addon Options (make sure you set them in the Server section):  
+![image](https://user-images.githubusercontent.com/1453936/80655533-d145ad80-8a76-11ea-8064-a8aebc92fbac.png)  
 ![image](https://user-images.githubusercontent.com/1453936/80655245-13baba80-8a76-11ea-880f-beeb5fab635b.png)  
 ![image](https://user-images.githubusercontent.com/1453936/80655274-2503c700-8a76-11ea-830f-2622e718bbc3.png)  
 
