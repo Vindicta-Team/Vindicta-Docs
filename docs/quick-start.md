@@ -22,15 +22,15 @@ To play single player just look for the mission in the SP mission list.
 
 1. Wait for the mission to load
 2. Configure Vindicta settings
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OREpQU6OcWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-2. Press the U button to bring up the menu
-3. Select `CREATE`
-4. Specify a `CAMPAIGN NAME`
-5. Select `FACTIONS` -- you must have appropriate mods installed or you will get an error
-6. Optionally change `INITIAL ENEMY %` -- this specifies how populated the initially held military positions will be
-6. Click `START`
-7. Wait for the initialization process to complete -- this can take a minute or two
-8. You should now be able to select the initial spawn point (a red box) to spawn at.
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/OREpQU6OcWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+3. Press the U button to bring up the menu
+4. Select `CREATE`
+5. Specify a `CAMPAIGN NAME`
+6. Select `FACTIONS` -- you must have appropriate mods installed or you will get an error
+7. Optionally change `INITIAL ENEMY %` -- this specifies how populated the initially held military positions will be
+8. Click `START`
+9. Wait for the initialization process to complete -- this can take a minute or two
+10. You should now be able to select the initial spawn point (a red box) to spawn at.
 
 ## Some Tips Before You Start
 
