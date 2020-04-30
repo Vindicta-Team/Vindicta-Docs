@@ -25,7 +25,7 @@ An example command line when using [FASTER Arma Server Tool](https://github.com/
 Note: you may need to modify the template below (`Vindicta_Altis_v0_37_11.Altis`) for your own purposes.
 Change the version number to match the version you are using. Look at the file names in the mod `addons` directory to determine what version you are using.  
 Change the map name to the map you want to play.
-The template format is like this: `Vindicta_(map)_(version).(map)`
+The template format is like this: `Vindicta_(map)_v(version).(map)`
 
 ```
 passwordAdmin = "windicta";
