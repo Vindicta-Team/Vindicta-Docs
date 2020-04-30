@@ -67,3 +67,8 @@ The garrison will go directly to the target and merge with it (if its a garrison
 This will send the garrison to a specific location to clean up any enemies that are found there.  
 If travelling in vehicles the garrison will dismount some distance away from the target position and proceed on foot.  
 The garrison will search the area in a random pattern looking for enemies for a period of time, before idling once it is satisfied no enemies are present.  
+
+## Player Group
+You can order fighters to join your own group: just approach them and use the scroll menu to add an individual, or a whole group.  
+If you die (and are the only player in the group), the fighters will form their own garrison where you left them. You can then give orders to this garrison 
+as per the Giving Orders section above.
