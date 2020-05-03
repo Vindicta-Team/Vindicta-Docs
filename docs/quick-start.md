@@ -8,15 +8,17 @@ nav_order: 1
 
 ## Install
 
+See [Setup Guide](setup) for more detailed instructions.
+
 ### For Dedicated Server
 
-Vindicta is installed as a mod *only*, simply install and enable the mod and its dependencies and the mission will be available.
+Vindicta is installed as a mod *only*, simply install and enable the mod (and its dependencies) and the mission will be available.
 
 ### For Local Hosting or Single Player
 
 Just subscribe to the mod and dependencies (ace and cba) on the Steam Workshop page (linked above), and enable them in the launcher.
 To self host just start a server through the MP menu.
-To play single player just look for the mission in the SP mission list.
+To play single player just look for the mission in the SP mission list (note: playing on dedicated server or locally hosted multiplayer is recommended over single player).
 
 ## Starting a New Game
 
@@ -34,6 +36,14 @@ This video shows hosting a local server and creating a new campaign:
 8. Click `START`
 9. Wait for the initialization process to complete -- this can take a minute or two
 10. You should now be able to select the initial spawn point (an orange box) to spawn at.
+
+## Save System
+
+Vindicta does not use the standard Arma 3 save system, instead it has a custom one.  
+Access this through the `U` menu.  
+The save data is stored in the profiles .vars. file, see [Where is my save file?](reporting-a-problem#where-is-my-save-file) to locate it.  
+You are limited to 6 saves currently (each one bloats the .vars. file considerably, which in turn slows down Arma 3 startup time more considerably).  
+You should consider backing up your .vars. file as regularly as you can, certainly before running Arma 3 after a new steam update has been installed.  
 
 ## Some Tips Before You Start
 
