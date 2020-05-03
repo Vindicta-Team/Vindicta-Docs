@@ -46,6 +46,12 @@ nav_order: 3
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
 
+### Do enemy crates respawn after I steal them?
+> No.
+
+### Where are the APCs/Tanks/MLRS?
+> Heavier vehicles appear as you make more campaign progress. When this happens is also dependant on difficulty settings: at high difficulty tanks appear almost immediately, and low they will not appear until much later.
+
 # Zeus
 
 ### How can I open Zeus interface?
