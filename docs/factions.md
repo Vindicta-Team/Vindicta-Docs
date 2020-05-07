@@ -349,9 +349,119 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
+## RHS-BW Fleck Custom
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
+
+## RHS-BW-Niarms Fleck Custom
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
+
+## RHS CDF (Next Update)
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## 3CB BAF
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025481163)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## 3CB Takistan National Army
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## 3CB Takistan National Army OPP
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
 
 <details><summary>History</summary>
 <p>
@@ -415,50 +525,6 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## RHS-BW Fleck Custom
-
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025616621)</b>
-
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<details><summary>Equipment</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
-
-## RHS-BW-Niarms Fleck Custom
-
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2025624631)</b>
-
-<details><summary>History</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<details><summary>Equipment</summary>
-<p>
-
-"description and image"
-
-</p>
-</details>
-
-<b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
-
 ## GM West Germany
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
@@ -481,7 +547,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## CUP TKA
+## CUP & RHS TKA
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019692788)</b>
 
@@ -547,7 +613,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## WW2 Heer
+## WW2 Heer (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -577,7 +643,7 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## WW2 Red Army
+## WW2 Red Army (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -595,7 +661,7 @@ The Germans used a number of type designations for their weapons. Usually, the t
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## WW2 UK
+## WW2 UK (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -732,6 +798,72 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
+## 3CB Chernarus Police (Next Update)
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## 3CB Takistan Police
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## 3CB Takistan Police OPP
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## GM Western Germany Police 
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
@@ -776,7 +908,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## WW2 SS
+## WW2 SS (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -803,7 +935,7 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## WW2 NKWD
+## WW2 NKWD (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -821,7 +953,7 @@ Equipment used by SS was identical as Heer, only difference being camouflages su
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## WW2 UK Police
+## WW2 UK Police (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
@@ -869,11 +1001,23 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## WW2 Civilians
+## WW2 Civilians (IFA is having problems with models)
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1980236949)</b>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## 3CB Chernarus Civilians (Next Update)
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## 3CB TKA Civilians
+
+<b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 ## GM Civilians
 
