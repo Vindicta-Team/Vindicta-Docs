@@ -67,7 +67,7 @@ class Missions
 {
 	class Vindicta
 	{
-		template = Vindicta_Altis_v0_39_13.Altis;
+		template = Vindicta_Altis_v0_42_16.Altis;
 		difficulty = "recruit";
 	};
 };
