@@ -283,6 +283,28 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
+## RHS MNDF
+
+<b>[Required Mods]()</b> (No cellection yet)
+
+<details><summary>History</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<details><summary>Equipment</summary>
+<p>
+
+"description and image"
+
+</p>
+</details>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
 ## RHS LDF NATO
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
@@ -393,7 +415,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 <b>Faction by [Lazejun](https://github.com/Lazejun)</b><br>
 
-## RHS CDF (Next Update)
+## RHS CDF
 
 <b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
 
@@ -798,7 +820,7 @@ The US government heavily invested in the new APD supporting them with new unifo
 
 <b>Faction by [Straker27](https://github.com/Straker27)</b><br>
 
-## 3CB Chernarus Police (Next Update)
+## 3CB Chernarus Police
 
 <b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
 
@@ -1007,7 +1029,7 @@ British Army used lots of different equipment bought from the USA or mostly self
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## 3CB Chernarus Civilians (Next Update)
+## 3CB Chernarus Civilians
 
 <b>[Required Mods](http://steamcommunity.com/sharedfiles/filedetails/?id=2082439515)</b>
 
