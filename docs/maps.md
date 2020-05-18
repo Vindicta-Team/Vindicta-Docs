@@ -40,7 +40,7 @@ nav_order: 6
 
 <b>Map by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## Chernarus 2020 (Next Update)
+## Chernarus 2020
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169&searchtext=cup)</b>
 
