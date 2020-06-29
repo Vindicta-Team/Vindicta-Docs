@@ -285,7 +285,7 @@ While on deployments, CSAT soldiers do not wear the flag patches of their home n
 
 ## RHS MNDF
 
-<b>[Required Mods]()</b> (No cellection yet)
+<b>[Required Mods]()</b> (No collection yet)
 
 <details><summary>History</summary>
 <p>
