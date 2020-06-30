@@ -50,5 +50,5 @@ There is no real solution to this other than improving the server, or reducing h
 
 ### Saves disappeared
 
-- Check your server doesn't clean your vars file.
+- Check your server doesn't clean your vars file. (good practice is to manually do backups)
 - Check you didn't change profile.
