@@ -22,6 +22,9 @@ nav_order: 3
 ### How do we claim a location?
 > Press U, strategic tab, there should be 'claim' button.
 
+### I can not enter military vehicles, why?
+> You must lockpick them first. It is done through ACE interaction menu, with `Lockpick vehicle` action. You must have a lockpick item in your inventory, but it is always added to uniform at respawn.
+
 ### How do I open build menu?
 > You must be at an owned location, indicated at the top of the screen, then use mouse wheel (action) menu option.
 
