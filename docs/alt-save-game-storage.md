@@ -38,5 +38,7 @@ When you open the `Savegame` tab, you will see a combobox which lets you choose 
 The menu tab shows only saved games available through the selected storage method.
 If FileXT is loaded, it will be selected by default. Just ensure that it is selected when you make a new save.
 
-# Porting saved games from `.vars.arma3profile file` to FileXT
+![image](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/FileXT%20help.jpg)
+
+# Porting saved games from `.vars.arma3profile` file to FileXT
 When you start your game, select `Profile` storage and load your old saved game. Then select `FileXT` and re-save it.
