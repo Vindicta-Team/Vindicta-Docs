@@ -24,6 +24,8 @@ Reading `.vars.arma3profile` might freeze the game up to a few seconds when ther
 
 # Setup
 
+**Disable BattleEye** through launcher, as it blocks arma from loading .DLLs.
+
 Setup is simple, just install this addon on the machine which hosts the mission:
 
 - If you are using a dedicated server, this addon is required only on the server. Launch it with `-serverMod=` command line option.
