@@ -774,30 +774,6 @@ Equipment used by gendarmes isn't the best quality and price mostly because the 
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## RHS APD
-
-<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019695071)</b>
-
-The <b>Altis Police Department (or simply the APD)</b> is a police force heavily supported by the US government with equipment and training.
-
-<details><summary>History</summary>
-<p>
-
-The original police force of Altis was formed in 1819 which was later reformed after US intervention in Mediterranean. Under US occupation of the island the "Grate Reform" of Republic of Altis and Stratis started, focusing on reforming the government and political system. One of the biggest questions was the law system in the small republic. The President of USA and the newly elected President of Republic of Altis and Stratis chose to adapt the "US police style" force, while not changing the base law system.
-
-</p>
-</details>
-
-<details><summary>Equipment</summary>
-<p>
-
-The US government heavily invested in the new APD supporting them with new uniforms, vests, guns, cars. The new police equipment consists of uniform with blue t-shirt with black pants, black police belt, black bulletproof vest, usually a 9 mm pistols but there are still weapons used from the past the "Grate Reform". Most of the police stations have long weapons for use by the officers. Commonly found long weapons in police arsenal are M16, M4, M4A1 alongside some simple weapon attachments. The APD is constantly being trained by USAF, so we expect this police force getting even better. 
-
-</p>
-</details>
-
-<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
-
 ## RHS LDF NATO Police
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2019687630)</b>
