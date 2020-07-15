@@ -31,7 +31,7 @@ Therefore you must choose the trade off between discoverability and recruitment 
 ## Making New Camps
 
 Camps require building resources to construct.  
-Once you have found a suitable location, ensure you have building resources in your backpack, and open the [Vindicta menu](menu).  
+Once you have found a suitable location, ensure you have building resources in your backpack, and open the [Vindicta menu](../quick-start).  
 Creating the camp is done on the Strategic tab.  
 Once created, a small pile of various gear will appear at your feet to indicate the new camp position.  
 It will disappear the next time you load the campaign, but the camp location will remain.  
