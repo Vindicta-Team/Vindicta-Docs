@@ -51,7 +51,7 @@ Town is occupied when a garrison is attached to it. Occupying town gives benefit
 
 ## Recruit count
 
-Towns have separate values for friendly and enemy recruit count. Recruit count grows of a side grows proportionally with influence value. Recruit count can't be bigger than a certain value, which is bigger for bigger cities.
+Towns have separate values for friendly and enemy recruit count. Recruit count of a side grows proportionally with influence value. Recruit count can't be bigger than a certain value, which is bigger for bigger cities.
 
 ## Enemy recruitment
 
