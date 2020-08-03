@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Factions
+title: Faction List
 parent: Factions
 nav_order: 1
 ---
