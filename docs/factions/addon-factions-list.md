@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Addon Faction List
+title: Addon Factions
 parent: Factions
 nav_order: 2
 ---
