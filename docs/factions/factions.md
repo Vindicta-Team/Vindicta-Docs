@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Factions
+title: Factions List
 nav_order: 5
 has_children: true
 permalink: /docs/factions
