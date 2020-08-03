@@ -5,6 +5,9 @@ parent: Factions
 nav_order: 1
 ---
   
+You need ACE compatibility mods for  RHS and CUP.<br>
+If you choose base game Arma 3 factions, you do NOT need any mods!
+  
 # Military
 
 ## AAF
@@ -261,6 +264,3 @@ nav_order: 1
 <b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=583575232)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
-
-You need ACE compatibility mods for  RHS and CUP.<br>
-If you choose base game Arma 3 factions, you do NOT need any mods!
