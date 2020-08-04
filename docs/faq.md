@@ -17,7 +17,7 @@ nav_order: 3
 ### What mods do I need to play with a specific faction?
 > [All build in factions are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions/factions-list.html)
 
-> [Addon factions are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions/factions-list.html)
+> [Addon factions are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions/addon-factions-list.html)
 
 # Gameplay and current features
 
