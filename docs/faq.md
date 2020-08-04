@@ -15,7 +15,9 @@ nav_order: 3
 > All AI mods are incompatible, for instance VCOM AI. Only exception is mods which do not make bots steal vehicles and do not change their weaypoints (for instance, LAMBS danger.fsm). If you play with any AI mods, do not report any AI related problem.
 
 ### What mods do I need to play with a specific faction?
-> [All are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions.html)
+> [All build in factions are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions/factions-list.html)
+
+> [Addon factions are listed here](https://vindicta-team.github.io/Vindicta-Docs/factions/factions-list.html)
 
 # Gameplay and current features
 
