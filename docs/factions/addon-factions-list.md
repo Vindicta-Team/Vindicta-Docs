@@ -11,41 +11,59 @@ If you want your faction to be added to this list send me a private message <b>(
 
 # Military
 
-## 3CB BAF
+## Vindicta - WW2 Factions [IFA3/FOW/GEIST]
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
+
+<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+## Vindicta 3CB BAF
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2183110222)</b>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## WW2 Heer 
+## Vindicta CSAT Modification Project Factions 
 
-<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2184028190)</b>
 
-<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## WW2 Red Army 
+## Vindicta Malden Defense Force 2035
 
-<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179629298)</b>
 
-<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Vindicta 3CB's Cold War Pack
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179771686)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 # Police
 
-## WW2 SS 
+## Vindicta - WW2 Factions [IFA3/FOW/GEIST]
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## WW2 NKWD 
+## Vindicta Malden Defense Force 2035
 
-<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179629298)</b>
 
-<b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Vindicta 3CB's Cold War Pack
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179771686)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 # Civilians
 
-## WW2 Civilians 
+## Vindicta - WW2 Factions [IFA3/FOW/GEIST]
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
