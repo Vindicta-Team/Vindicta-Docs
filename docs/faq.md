@@ -32,19 +32,19 @@ nav_order: 3
 > Use it to manually take "ownership" of a vehicle. It must be used at an owned location. Use it on crates that contain building resources to gain access to them in the build menu. Normally all items will be automatically attached to the nearest garrison.
 
 ### Are there any air units in the mission?
-> Not yet
+> Enemies can use only attack helicopters now. But you can now fly them.
 
-### How do I unlock items in the Arsenal?
-> You can't, it is fully limited.
+### Can I fly helicopters?
+> No, you can't. They are too powerful and until ammunition management is implemented, adding rearm cost, you can not fly them.
 
-### How do I skip time?
-> This isn't officially supported as it can screw with the enemy commander somewhat. However `skipTime 8` will skip 8 hours for you. The enemy commander will immediately dispatch all pending actions, other weird things might happen.
+### Can I unlock items in the Arsenal?
+> You can't, it is fully limited. However if you want to have more loot in ammo crates, you can increase it through addon options.
 
 ### How do I get building resources? 
-> From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy).
+> From ammoboxes found in enemy [police](guide/police) stations and [military locations](guide/military-locations), and from [supply convoys](guide/military#supply-convoy). Also civilians can give you the build resources through dialogue in cities with high enough influence.
 
 ### How do I play the mission in singleplayer?
-> It is implemented already, you can play it in singleplayer through SP Scenarios tab in the main menu. But it is not well tested. Dedicated MP is best, self hosted MP is second best.
+> You can play it in singleplayer through SP Scenarios tab in the main menu. But it is not well tested. Dedicated MP is best, self hosted MP is second best.
 
 ### How can I holster my pistol?
 > Press 0 (zero key) to use the ACE holster weapon action.
@@ -81,35 +81,17 @@ nav_order: 3
 # Technical
 
 ### Is there Headless Client Support?
-> Not now because it would require large scale code changes. Maybe later.
+> No now because it would require large scale code changes.
 
 ### Where are the saved games stored?
-> In the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
+> If you are not using FileXT addon, they are stored in the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
 
 ### How do I run it on a dedicated server?
 > If you have got the files from Workshop, then you have addon-type .pbo files, not user-mission-type .pbo files.  
 > You DO NOT need to put them into mpmissions folder.  
 > Make sure the addon is loaded! Treat the workshop download as an addon, it must be loaded with -mod parameters, clients need it to play on your server!  
-> If you want your dedicated server to automatically select the mission when first player joins, you can use the `class Missions` below. It is only needed if you want automatic mission selection. If you do not add `class Missions` to server.cfg, you will see a usual mission selection screen. When doing a dedicated server setup, try it without `class Missions` first to see if all mods are loaded, then, if you want, you can try to do `class Missions` setup.
-> See the server.cfg setup below: note that versions might be different! Ensure that versions are correct! To see the version which must be specified, go to `!Workshop\Vindicta (Alpha)\addons` folder and locate the .pbo file which has the version name in it.
-> Ensure that specified `template` is correct, note that the map name is listed twice!
-> ```cpp
-> class Missions
-> {
->     class vin001
->     {
->         template = "Vindicta_Altis_v0_37_11.Altis";
->         difficulty = "veteran";
->         class Params {};
->     };
->     class vin002
->     {
->         template = "Vindicta_Enoch_v0_37_11.Enoch";
->         difficulty = "veteran";
->         class Params {};
->     };
-> };
-> ```  
+> If you want your dedicated server to automatically select the mission when first player joins, you can use the `class Missions`. It is only needed if you want automatic mission selection. If you do not add `class Missions` to server.cfg, you will see a usual mission selection screen. When doing a dedicated server setup, try it without `class Missions` first to see if all mods are loaded, then, if you want, you can try to do `class Missions` setup.
+> **For example of server.cfg `class Missions`, refer to file `FOR_DEDICATED_SERVER_CFG.TXT` which you can find in mod folder. **
 
 ### Where do I find the .RPT file?
 > Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))
