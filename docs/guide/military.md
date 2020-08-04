@@ -2,7 +2,7 @@
 layout: default
 title: Military
 parent: Guide
-nav_order: 8
+nav_order: 9
 ---
 
 # Military
@@ -25,25 +25,23 @@ While the police are very limited in their reactions to you, the military are no
 At the start of the game the military will occupy all airfields and bases, and some randomly selected outposts.  
 Airfields will have 3 officers present, and bases will have 1.  
 
-## Strategy
+## Aggression
 
-The commander of the enemy military forces will progress through different strategies over the course of the campaign, to reflect their analysis of how much of a threat you pose.  
+Aggression level varies between 0 and 100% and can be seen at the top of the map UI.
+Aggression influences following aspects:
+- Willingness of commander to occupy cities and capture other locations.
+- Willingness of commander to deploy roadblocks.
+- Willingness of commander to bring more heavy vehicles (MRAPs, APCs, tanks, helicopters).
+- Willingness of commander to fight for territory.
+- 'Propaganda' rate - the higher the aggression, the faster you start losing influence on cities which are not occupied by your side. This is done to simulate various propaganda methods the enemy can imploy to mobilize civilians.
 
-### Early Game Strategy
+## Regeneration of units
 
-This is the starting strategy the commander employs, and will see them maintaining their current strength and territory, and being purely reactive to player actions.  
-The commander will only have access to lightly armed vehicles, and troops.  
+Military forces of the enemy are regenerated in the following way:
 
-### Mid Game Strategy
-
-The commander will now deploy armor, and move aggressively to contain your actions.  
-They will attempt to take all military locations, and retake all captured towns.  
-This is now a war, not a police action.  
-
-### End Game Strategy
-
-The commander will employ all forces at their disposal, prioritizing retaking towns.  
-They will use overwhelming force.  
+- Soldiers are aquired by same recruitment mechanism as for player side. So, it is **crucial** to destabilize and capture cities to prevent enemy army from reinforcing itself.
+If you own some portion of the map, don't overestimate the amount of people which can be mobilized over time by the remaining large amount of enemy territory.
+- Vehicles are brought in only through airfields, and are later redistributed elsewhere.
 
 ## Officers 
 

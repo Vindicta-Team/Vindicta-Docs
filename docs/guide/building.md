@@ -2,7 +2,7 @@
 layout: default
 title: Building
 parent: Guide
-nav_order: 5
+nav_order: 6
 ---
 
 # Building

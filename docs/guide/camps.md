@@ -36,10 +36,6 @@ Creating the camp is done on the Strategic tab.
 Once created, a small pile of various gear will appear at your feet to indicate the new camp position.  
 It will disappear the next time you load the campaign, but the camp location will remain.  
 
-## Respawning at a Camp
-
-You need to build a tent for this to be possible, it should be the first thing you add to any new camp as soon as you can afford it.  
-
 ## How to Store Gear at a Camp
 
 The best solution for this is the [Arsenal](arsenal). It has infinite capacity, and an interface for changing, saving and loading loadouts.  

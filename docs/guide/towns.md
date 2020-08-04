@@ -27,7 +27,7 @@ Influence ranges from -100% to +100%. Positive means that rebels have influence 
 Friendly influence can be increased by:
 
 - Releasing captive civilians
-- Inciting civilians through dialogues.
+- Inciting civilians through dialogues
 - Killing enemy soldiers near town
 - Destroying enemy vehicles near town
 
@@ -43,9 +43,11 @@ If a town is not occupied by any side, enemy influence slowly increases over tim
 
 ## Occupying a town
 
-Town is occupied when a garrison is attached to it. Occupying town gives benefits:
+Town is occupied when a garrison is attached to it.
+**Claiming a local police station is not sufficient.**
+Occupying town gives benefits:
 
-- Influence slowly increases.
+- Influence slowly increases without any need to agitate civilians yourself.
 - Recruitment rate increases.
 - Maximum recruit count increases.
 

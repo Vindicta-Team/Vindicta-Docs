@@ -2,7 +2,7 @@
 layout: default
 title: Military Locations
 parent: Guide
-nav_order: 9
+nav_order: 10
 ---
 
 # Military Locations
