@@ -18,46 +18,45 @@ Towns should be the main focus of your activities, as the success of the revolut
 
 ---
 
-## Instability
+## Influence
 
-This is a measure of how much progress you have made in convincing the town to join your cause.  
-It relates directly to the recruitment rate of the city.  
-Increasing instability cause the town to move through various states.
+Towns have influence value.
 
-## States
+Influence ranges from -100% to +100%. Positive means that rebels have influence over this town, negative means that enemy forces have influence over this town.
 
-Towns have 5 disctinct states:
-<span style="color:gray">`STABLE`</span>, 
-<span style="color:yellow">`AGITATED`</span>,
-<span style="color:orange">`IN REVOLT`</span>, 
-<span style="color:green">`LIBERATED`</span>, 
-and <span style="color:red">`SUPPRESSED`</span>.
+Friendly influence can be increased by:
 
-### <span style="color:gray">`STABLE`</span>
+- Releasing captive civilians
+- Inciting civilians through dialogues.
+- Killing enemy soldiers near town
+- Destroying enemy vehicles near town
 
-Stable towns are those which have yet to fall under your influence. They will produce no recruits, and police action will be low.  
-To begin the process of liberating the town you should talk to the locals, or engage in operations against any local governmental forces.  
+Enemy influence increases when:
 
-### <span style="color:yellow">`AGITATED`</span>
+- Civilians are killed
+- Civilian vehicles are destroyed
+- Friendly forces are killed near town
 
-When instability begins to rise town will become agitate.  
-The local population will begin to rise up against their oppressors.  
-Some may take up arms: they can be recruited into your squad, or left to their own devices. If you recruit them into your squad be aware that they will 
-leave when you get far enough from the town, and return home.  
+Influence of a side increases with time if that side occupies a town.
 
-### <span style="color:orange">`IN REVOLT`</span>
+If a town is not occupied by any side, enemy influence slowly increases over time.
 
-At high levels of instability the town will enter open revolt against the govermental forces.  
-There will be street fighting, attempted assasinations of police, road side bombs, all hell breaking loose.  
-If you can find the bombers you can direct their actions, or request their IEDs for your own purposes.  
+## Occupying a town
 
-### <span style="color:green">`LIBERATED`</span>
+Town is occupied when a garrison is attached to it. Occupying town gives benefits:
 
-Towns can only be liberated by occupying them with your own forces. Recruit units at a camp and send them to reinforce the town. They must outnumber enemies (police and miliary) in the area by 2 to 1 to liberate.  
-A liberated town may spawn friendly police, and will no longer be the target of police reinforcements.  
+- Influence slowly increases.
+- Recruitment rate increases.
+- Maximum recruit count increases.
 
-### <span style="color:red">`SUPPRESSED`</span>
+## Recruit count
 
-If the enemy occupies a liberated town it will become suppressed.  
-While suppressed the towns instability will revert to 0%, and you will gain no recruits there.  
-You can re-liberate the town using your own forces, again by occupying it and out numbering the enemy 2 to 1.
+Towns have separate values for friendly and enemy recruit count. Recruit count of a side grows proportionally with influence value. Recruit count can't be bigger than a certain value, which is bigger for bigger cities.
+
+## Enemy recruitment
+
+Enemy commander will refill its manpower only by recruiting civilians from towns. Enemies can recruit soldiers at airports, outposts and bases. Soldiers are recruited from cities further away from war zone, if possible.
+
+## Strategy
+
+It's crucial to hold cities from enemy influence to maintain soldier income.

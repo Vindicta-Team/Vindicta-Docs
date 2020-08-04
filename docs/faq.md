@@ -87,11 +87,11 @@ nav_order: 3
 > If you are not using FileXT addon, they are stored in the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
 
 ### How do I run it on a dedicated server?
+> **For example of server.cfg `class Missions`, refer to file `FOR_DEDICATED_SERVER_CFG.TXT` in mod folder.**
 > If you have got the files from Workshop, then you have addon-type .pbo files, not user-mission-type .pbo files.  
 > You DO NOT need to put them into mpmissions folder.  
 > Make sure the addon is loaded! Treat the workshop download as an addon, it must be loaded with -mod parameters, clients need it to play on your server!  
 > If you want your dedicated server to automatically select the mission when first player joins, you can use the `class Missions`. It is only needed if you want automatic mission selection. If you do not add `class Missions` to server.cfg, you will see a usual mission selection screen. When doing a dedicated server setup, try it without `class Missions` first to see if all mods are loaded, then, if you want, you can try to do `class Missions` setup.
-> **For example of server.cfg `class Missions`, refer to file `FOR_DEDICATED_SERVER_CFG.TXT` which you can find in mod folder. **
 
 ### Where do I find the .RPT file?
 > Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))

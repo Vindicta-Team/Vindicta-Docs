@@ -4,6 +4,8 @@ title: Factions
 parent: Factions
 nav_order: 1
 ---
+
+These factions are available in base mission.
   
 You need ACE compatibility mods for  RHS and CUP.<br>
 If you choose base game Arma 3 factions, you do NOT need any mods!

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alternative Save Game Storage
+title: FileXT save game storage
 nav_order: 9
 ---
 
