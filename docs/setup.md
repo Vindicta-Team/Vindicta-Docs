@@ -28,7 +28,7 @@ An example command line when using [FASTER Arma Server Tool](https://github.com/
 ### server.cfg example
 
 **Check FOR_DEDICATED_SERVER_CFG.TXT file in Vindicta mod folder for examples for `class Missions` for server.cfg.**
-**It has auto generated class names for all map variants. This should be your main reference for class names.**
+**It has auto generated template= values for all map variants. This should be your main reference for these values.**
 
 Change the map name to the map you want to play.
 The template format is like this: `Vindicta_(map).(map)` (but again, consult the file mentioned above).
