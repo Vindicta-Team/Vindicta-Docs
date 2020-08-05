@@ -88,9 +88,6 @@ nav_order: 3
 ### Where are the saved games stored?
 > If you are not using FileXT addon, they are stored in the `vars.arma3profile` file (see [reporting-a-problem](reporting-a-problem))
 
-### How do I run it on a dedicated server?
-Please refer to [Dedicated Server Setup](Dedicated Server Setup Guide)
-
 ### Where do I find the .RPT file?
 > Paste in explorer: `%LOCALAPPDATA%/Arma 3` (see [reporting-a-problem](reporting-a-problem))
 

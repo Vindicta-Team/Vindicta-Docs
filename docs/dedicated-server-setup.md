@@ -9,9 +9,12 @@ nav_order: 2
 ## Dedicated Server
 
 Most important thing to understand is that **the files you get through workshop are an arma mod, not a plain mission.**
+
 **There is no file which you must put into mpmissions folder in order for your server to run it.**
+
 **Instead you just need to load Vindicta as a mod through -mod command line parameter, and that's it!**
-**Clients need the addon to to play on your server too! DO NOT load it as sever-side mod.**  
+
+**Clients need the addon to to play on your server too! DO NOT load it as sever-side mod.**
 
 **Don't just blindly copy this, make sure your paths, mod, config names, and version numbers are correct. This is just an example!**  
 For automatic loading and starting of the mission you need to enable persistent battle field (`persistent = 1;`) in the config file, and pass `-autoInit` on the command line.  
