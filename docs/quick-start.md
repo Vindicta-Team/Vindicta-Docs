@@ -12,7 +12,7 @@ See [Setup Guide](setup) for more detailed instructions.
 
 ### For Dedicated Server
 
-Vindicta is installed as a mod *only*, simply install and enable the mod (and its dependencies) and the mission will be available.
+Vindicta is installed as a mod *only*, simply install and enable the mod (and its dependencies) and the mission will be available. Consult the dedicated server setup page for more information.
 
 ### For Local Hosting or Single Player
 
@@ -36,6 +36,10 @@ This video shows hosting a local server and creating a new campaign:
 8. Click `START`
 9. Wait for the initialization process to complete -- this can take a minute or two
 10. You should now be able to select the initial spawn point (an orange box) to spawn at.
+
+## Difficulty and performance settings
+
+There are lots of useful settings you can apply. Navigate to **escape menu -> addon options -> Vindicta -> Server**. 
 
 ## Save System
 
