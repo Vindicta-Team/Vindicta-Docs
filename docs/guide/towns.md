@@ -41,6 +41,12 @@ Influence of a side increases with time if that side occupies a town.
 
 If a town is not occupied by any side, enemy influence slowly increases over time.
 
+## City state (Neutral, Friendly control, Enemy control)
+Towns have three states shown on the map UI:
+- Friendly control - there are more friendly armed forces in city than enemies. See 'Occupying a town' to learn how to occupy a city.
+- Enemy control - there are more enemy armed forces in city than friendlies. Enemies will try to occupy towns as well.
+- Neutral - there are no friendly armed forces and no enemy armed forces in the city.
+
 ## Occupying a town
 
 Town is occupied when a garrison is attached to it.
