@@ -16,6 +16,8 @@ Most important thing to understand is that **the files you get through workshop 
 
 **Clients need the addon to to play on your server too! DO NOT load it as sever-side mod.**
 
+If you absolutely need the mission pbo files and the way above does not work for you, you can get the mission files at our [github releases page](https://github.com/Sparker95/Vindicta/releases). **But you and all clients must load the addon anyway**.
+
 **Don't just blindly copy this, make sure your paths, mod, config names, and version numbers are correct. This is just an example!**  
 For automatic loading and starting of the mission you need to enable persistent battle field (`persistent = 1;`) in the config file, and pass `-autoInit` on the command line.  
 You should also enable `Auto Load`, `Auto Save`, and `Suspend when empty` in Addon Options (make sure you set them in the Server section):  
