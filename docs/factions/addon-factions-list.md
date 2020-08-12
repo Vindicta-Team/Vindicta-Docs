@@ -11,6 +11,12 @@ If you want your faction to be added to this list send me a private message <b>(
 
 # Military
 
+## Vindicta: Altis 90's
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2195131993)</b>
+
+<b>Faction by [Anthrax](https://steamcommunity.com/id/Anthrax2001)</b><br>
+
 ## Vindicta - WW2 Factions [IFA3/FOW/GEIST]
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
@@ -42,6 +48,12 @@ If you want your faction to be added to this list send me a private message <b>(
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 # Police
+
+## Vindicta: Altis 90's
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2195131993)</b>
+
+<b>Faction by [Anthrax](https://steamcommunity.com/id/Anthrax2001)</b><br>
 
 ## Vindicta - WW2 Factions [IFA3/FOW/GEIST]
 
