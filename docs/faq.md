@@ -34,10 +34,10 @@ nav_order: 3
 > Use it to manually take "ownership" of a vehicle. It must be used at an owned location. Use it on crates that contain building resources to gain access to them in the build menu. Normally all items will be automatically attached to the nearest garrison.
 
 ### Are there any air units in the mission?
-> Enemies can use only attack helicopters now. But you can now fly them.
+> Enemies can use only attack helicopters now. But you can not fly them.
 
 ### Can I fly helicopters?
-> No, you can't. They are too powerful and until ammunition management is implemented, adding rearm cost, you can not fly them.
+> No, you can't. They are too powerful and until ammunition management or proper anti-air is implemented, you can not fly them.
 
 ### Can I unlock items in the Arsenal?
 > You can't, it is fully limited. However if you want to have more loot in ammo crates, you can increase it through addon options.
