@@ -16,6 +16,12 @@ nav_order: 6
 
 <b>Map by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
+## Tanoa (In Dev Branch now)
+
+<b>[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)</b>
+
+<b>Map by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## Malden
 
 <b>[Required DLC](https://store.steampowered.com/app/639600/Arma_3_Malden/)</b>
@@ -40,7 +46,7 @@ nav_order: 6
 
 <b>Map by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## Chernarus 2020 -- Work in Progress
+## Chernarus 2020
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169&searchtext=cup)</b>
 
