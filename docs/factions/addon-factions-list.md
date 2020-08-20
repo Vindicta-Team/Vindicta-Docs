@@ -47,6 +47,14 @@ If you want your faction to be added to this list send me a private message <b>(
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
+## Vindicta RHS United States Armed Forces Redone
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2202502606)</b>
+
+<b> Note: This faction is still in the works and might not be functioning how it is supposed to</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 # Police
 
 ## Vindicta: Altis 90's
