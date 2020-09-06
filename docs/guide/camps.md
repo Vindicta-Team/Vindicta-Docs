@@ -41,3 +41,9 @@ It will disappear the next time you load the campaign, but the camp location wil
 The best solution for this is the [Arsenal](arsenal). It has infinite capacity, and an interface for changing, saving and loading loadouts.  
 These can be built through the Storage category in the [Build UI](building).  
 Inventories of crates and vehicles will also be saved, so these can be used if needed.  
+
+## Infantry capacity
+
+Camps, as well as all outposts you can capture, have a fixed infantry capacity. You can not recruit more soldiers if the infantry capacity at this place has been reached. The only way to increase this capacity is by building more tents through the build menu. See [Build UI](building) page.
+
+When you create a new camp, all buildings within camp radius are automatically added to it, increasing camp's infantry capacity. It is very benefitial to create camps next to some abandoned buildings.
