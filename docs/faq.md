@@ -99,6 +99,16 @@ nav_order: 3
 > If it's not there, make sure you've loaded CBA and ACE.
 > See [troubleshooting](troubleshooting).
 
+### Friendly or enemy AIs are misbehaving or stuck
+> If you want to report AI errors, you need to use the built-in AI debugging interface.
+
+> To do that, open Zeus interface, and find 'AI debug UI' button at the top-right. It is only available to admins. See the screenshots below for further instructions.
+
+> [Screenshot 1](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_0.jpg)
+> [Screenshot 2](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_1.jpg)
+> [Screenshot 3](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_2.jpg)
+> [Screenshot 4](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_3.jpg)
+
 # Other questions
 
 ### When?
