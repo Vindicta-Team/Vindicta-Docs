@@ -29,6 +29,12 @@ If you want your faction to be added to this list send me a private message <b>(
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
+## Vindicta Aegis Factions
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2203560756)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
 ## Vindicta CSAT Modification Project Factions 
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2184028190)</b>
@@ -68,6 +74,12 @@ If you want your faction to be added to this list send me a private message <b>(
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+## Vindicta Aegis Factions
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2203560756)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 ## Vindicta Malden Defense Force 2035
 
