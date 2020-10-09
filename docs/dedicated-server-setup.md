@@ -14,7 +14,7 @@ Most important thing to understand is that **the files you get through workshop 
 
 **Instead you just need to load Vindicta as a mod through -mod command line parameter, and that's it!**
 
-**Clients need the addon to to play on your server too! DO NOT load it as sever-side mod.**
+**Clients need the addon to play on your server too! DO NOT load it as sever-side mod.**
 
 If you absolutely need the mission pbo files and the way above does not work for you, you can get the mission files at our [github releases page](https://github.com/Sparker95/Vindicta/releases). **But you and all clients must load the addon anyway**.
 
@@ -26,9 +26,13 @@ You should also enable `Auto Load`, `Auto Save`, and `Suspend when empty` in Add
 ![image](https://user-images.githubusercontent.com/1453936/80655274-2503c700-8a76-11ea-830f-2622e718bbc3.png)  
 
 ### Command line
+An example command line with -mod and -servermod values:
+```"-mod=@CBA_A3;@ace;@Vindicta (alpha)" "-servermod=@filext"
+```
 
-An example command line when using [FASTER Arma Server Tool](https://github.com/Foxlider/Fox-s-Arma-Server-Tool-Extended-Rewrite):  
-```"C:\FASTER\Arma3\arma3server_x64.exe" -port=2302 "-config=C:\FASTER\Arma3\Servers\vindicta\vindicta_config.cfg" "-profiles=C:\FASTER\Arma3\Servers\vindicta" -name=vindicta "-mod=@ace;@vindicta;" "-serverMod=@ace;@CBA_A3;@vindicta;" -autoInit```
+### FileXT addon
+FileXT is an optional addon which lets your server store saved games in separate files. It must be launched with -servermod command. Please read more on it here:
+[FileXT addon](https://vindicta-team.github.io/Vindicta-Docs/alt-save-game-storage.html)
 
 ### server.cfg example
 
