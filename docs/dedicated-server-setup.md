@@ -27,8 +27,7 @@ You should also enable `Auto Load`, `Auto Save`, and `Suspend when empty` in Add
 
 ### Command line
 An example command line with -mod and -servermod values:
-```"-mod=@CBA_A3;@ace;@Vindicta (alpha)" "-servermod=@filext"
-```
+`"-mod=@CBA_A3;@ace;@Vindicta (alpha)" "-servermod=@filext"`
 
 ### FileXT addon
 FileXT is an optional addon which lets your server store saved games in separate files. It must be launched with -servermod command. Please read more on it here:
