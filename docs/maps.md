@@ -56,7 +56,7 @@ nav_order: 6
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169&searchtext=cup)</b>
 
-<b>Map markup by Lukis Brans</b></br>
+<b>Map markup by Lukis Brans</b><br>
 
 ## Weferlingen
 
@@ -74,10 +74,10 @@ nav_order: 6
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1978754337)</b>
 
-<b>Map markup by Anthrax and Sparker</b></br>
+<b>Map markup by Anthrax and Sparker</b><br>
 
 ## Anizay
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181)</b>
 
-<b>Map markup by Zharvis</b></br>
+<b>Map markup by Zharvis</b><br>
