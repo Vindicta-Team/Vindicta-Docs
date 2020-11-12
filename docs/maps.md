@@ -58,11 +58,17 @@ nav_order: 6
 
 <b>Map markup by Lukis Brans</b><br>
 
-## Weferlingen
+## Weferlingen West
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
-<b>Map markup by [Panda/rc95](https://github.com/rc95)</b><br>
+<b>Map markup by [Panda/rc95](https://github.com/rc95), [Sparker](https://github.com/Sparker95)</b><br>
+
+## Weferlingen East
+
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
+
+<b>Map markup by [Panda/rc95](https://github.com/rc95), [Sparker](https://github.com/Sparker95)</b><br>
 
 ## 1944 Staszów, Poland
 
@@ -74,10 +80,22 @@ nav_order: 6
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1978754337)</b>
 
-<b>Map markup by Anthrax and Sparker</b><br>
+<b>Map markup by [Anthrax](https://steamcommunity.com/id/Anthrax2001), [Sparker](https://github.com/Sparker95)</b><br>
+
+## Phuoc Tuy Province, Vietnam
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1630431069)</b>
+
+<b>Map markup by [YaksAreTheBaneOfSociety](https://github.com/YaksAreTheBaneOfSociety)</b><br>
+
+## Nam2
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=794782314)</b>
+
+<b>Map markup by [YaksAreTheBaneOfSociety](https://github.com/YaksAreTheBaneOfSociety)</b><br>
 
 ## Anizay
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181)</b>
 
-<b>Map markup by Zharvis</b><br>
+<b>Map markup by [Zharvis](https://github.com/Zharvis1)</b><br>
