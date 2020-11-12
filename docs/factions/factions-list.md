@@ -211,9 +211,9 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 
 ## Arma 3 Police (DLC)
 
-[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)
-[Required DLC](https://store.steampowered.com/app/571710/Arma_3_Laws_of_War/)
-[Required DLC](https://store.steampowered.com/app/1021790/Arma_3_Contact/)
+<b>[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)</b><br>
+<b>[Required DLC](https://store.steampowered.com/app/571710/Arma_3_Laws_of_War/)</b><br>
+<b>[Required DLC](https://store.steampowered.com/app/1021790/Arma_3_Contact/)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
