@@ -12,21 +12,51 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
   
 # Military
 
-## AAF
+## Arma 3 AAF
 
 <b>Faction made by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## LDF
+## Arma 3 LDF
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
-## NATO
+## Arma 3 NATO
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
-## CSAT
+## Arma 3 NATO Pacific
+
+<b>[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Arma 3 NATO Woodland
+
+<b>[Required DLC](https://store.steampowered.com/app/1021790/Arma_3_Contact/)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Arma 3 CSAT
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## Arma 3 CSAT Pacific
+
+<b>[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Arma 3 AAF + CSAT
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Arma 3 NATO + AAF
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Arma 3 NATO + CSAT
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
 ## RHS AAF 2020
 
@@ -76,6 +106,18 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)</b>
 
 <b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
+
+## RHS USAF UCP
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)</b>
+
+<b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## RHS USMC
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)</b>
+
+<b>Faction by [SomethingSimple](https://github.com/SomethingSimpl)</b><br>
 
 ## RHS-BW Fleck Custom
 
@@ -131,11 +173,17 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
-## GM West Germany
+## GM DLC - West Germany
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
-<b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+<b>Faction by [Panda/rc95](https://github.com/rc95),[MatrikSky](https://github.com/MatrikSky),[Sparker](https://github.com/Sparker95)</b><br>
+
+## GM DLC - East Germany
+
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
 ## CUP Takistani Army
 
@@ -201,11 +249,17 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
 
-## GM Western Germany Police 
+## GM DLC - Western Germany Police 
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
 <b>Faction by [Panda/rc95](https://github.com/rc95)</b><br>
+
+## GM DLC - Eastern Germany Police
+
+<b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
+
+<b>Faction by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
 
 ## GSG9
 
