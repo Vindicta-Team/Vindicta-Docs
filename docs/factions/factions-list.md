@@ -177,7 +177,7 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 
 <b>[Required DLC](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)</b>
 
-<b>Faction by [Panda/rc95](https://github.com/rc95),[MatrikSky](https://github.com/MatrikSky),[Sparker](https://github.com/Sparker95)</b><br>
+<b>Faction by [Panda/rc95](https://github.com/rc95), [MatrikSky](https://github.com/MatrikSky), [Sparker](https://github.com/Sparker95)</b><br>
 
 ## GM DLC - East Germany
 
@@ -210,6 +210,10 @@ If you choose base game Arma 3 factions, you do NOT need any mods!
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
 ## Arma 3 Police (DLC)
+
+[Required DLC](https://store.steampowered.com/app/395180/Arma_3_Apex/)
+[Required DLC](https://store.steampowered.com/app/571710/Arma_3_Laws_of_War/)
+[Required DLC](https://store.steampowered.com/app/1021790/Arma_3_Contact/)
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
 
