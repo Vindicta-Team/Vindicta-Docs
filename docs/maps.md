@@ -32,7 +32,7 @@ nav_order: 6
 
 <b>[Required Mods](https://steamcommunity.com/workshop/filedetails/?id=1252091296)</b>
 
-<b>Map markup by [MatrikSky](https://github.com/MatrikSky)</b><br>
+<b>Map markup by [MatrikSky](https://steamcommunity.com/profiles/76561198354579370)</b><br>
 
 ## Beketov
 
@@ -86,13 +86,13 @@ nav_order: 6
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1630431069)</b>
 
-<b>Map markup by [YaksAreTheBaneOfSociety](https://github.com/YaksAreTheBaneOfSociety)</b><br>
+<b>Map markup by [YaksAreTheBaneOfSociety](https://steamcommunity.com/id/ampedworldgaming/)</b><br>
 
 ## Nam2
 
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=794782314)</b>
 
-<b>Map markup by [YaksAreTheBaneOfSociety](https://github.com/YaksAreTheBaneOfSociety)</b><br>
+<b>Map markup by [YaksAreTheBaneOfSociety](https://steamcommunity.com/id/ampedworldgaming/)</b><br>
 
 ## Anizay
 
