@@ -8,9 +8,6 @@ nav_order: 3
 
 # Mods
 
-### What mods are compatible?
-> Those which are ran on the dev server are officially supported, all others are not (even though they may work without problems). 
-
 ### What mods are incompatible?
 > All AI mods are incompatible, for instance VCOM AI, LAMBS danger.fsm, etc. Only exception is mods which do not make bots steal vehicles and do not change their weaypoints (for instance, LAMBS suppression). Anyway we didn't test all AI mod combinations, so if you play with any AI mods, AI behaviour can break, for instance patrols might become alerted at enemies multiple kilometers away and run away from outposts, and so on.
 
