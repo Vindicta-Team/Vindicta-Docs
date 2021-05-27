@@ -99,3 +99,21 @@ nav_order: 6
 <b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181)</b>
 
 <b>Map markup by [Zharvis](https://github.com/Zharvis1)</b><br>
+
+## Everon
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=853743366)</b>
+
+<b>Map markup by [Mark13](https://github.com/Marc13Bautista)</b><br>
+
+## Lingor
+
+<b>[Required Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=718649903)</b>
+
+<b>Map markup by [H-Finch-404](https://github.com/H-Finch-404)</b><br>
+
+## Cam Lao Nam
+
+<b>Requires Prairie Fire DLC</b>
+
+<b>Map markup by [Vindicta Development Team](https://github.com/Vindicta-Team)</b><br>
