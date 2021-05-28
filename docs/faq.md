@@ -92,19 +92,19 @@ nav_order: 3
 
 ### Why do my vehicles, cargo boxes or static weapons are teleported when I reload the game or come back to my camp?
 
-We cant have all objects present at all times for performance reasons.
+> We cant have all objects present at all times for performance reasons.
 
-So we spawn/despawn (cache/unchace) them based on if there is a player in the area 
+> So we spawn/despawn (cache/unchace) them based on if there is a player in the area 
 
-However due to how arma itself works objects can easily glitch into each other and get destroyed if the are placed too close together.
+> However due to how arma itself works objects can easily glitch into each other and get destroyed if the are placed too close together.
  
-That is why we have a script that detects possible problems and solves them by moving the objects in question away from each other (and it usually places them on the nearest free space/road) 
+> That is why we have a script that detects possible problems and solves them by moving the objects in question away from each other (and it usually places them on the nearest free space/road) 
 
-So objects will move when they were placed too close together before you leave the area but thats a lot better than having your stuff glitch around and blow up randomly which is very common in most arma missions and extremely annoying.
+> So objects will move when they were placed too close together before you leave the area but thats a lot better than having your stuff glitch around and blow up randomly which is very common in most arma missions and extremely annoying.
 
-### How do I prevent this? (the previous issue)
+### How do I prevent vehicles, cargo boxes and static weapons from teleporting around at my camp?
 
-Don't put your vehicles, cargo boxes or static weapons close to other objects, including houses, fortifications, or anything at all.
+> Don't put your vehicles, cargo boxes or static weapons close to other objects, including houses, fortifications, or anything at all.
 
 ### I can't find the mission in game
 > Host a MP game:
