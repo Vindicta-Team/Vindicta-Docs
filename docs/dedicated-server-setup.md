@@ -10,6 +10,10 @@ nav_order: 2
 
 This guide mainly outlines parts which are different for Vindicta setup. It doesn't teach you all aspects of how to do a dedicated server for Arma 3 from zero with all the aspects of that, for this consult other guides. You can also use tools like FASTER or TADST to generate config files for you.
 
+## TLDR
+
+Load Vindicta and its dependencies (ACE, CBA) as `-mod`. Load FileXT as `-servermod`, if your DS is on Windows. On linux FileXT is not supported and will not work. To see example mission names for server.cfg missions class, check FOR_DEDICATED_SERVER_CFG.TXT file in Vindicta mod folder.
+
 ## Dedicated Server
 
 Most important thing to understand is that **the files you get through workshop are an arma mod, not a plain mission.**
