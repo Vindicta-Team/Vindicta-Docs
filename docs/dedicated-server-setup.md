@@ -6,6 +6,10 @@ nav_order: 2
 
 # Setup Guide
 
+## Warning
+
+This guide mainly outlines parts which are different for Vindicta setup. It doesn't teach you all aspects of how to do a dedicated server for Arma 3 from zero with all the aspects of that, for this consult other guides. You can also use tools like FASTER or TADST to generate config files for you.
+
 ## Dedicated Server
 
 Most important thing to understand is that **the files you get through workshop are an arma mod, not a plain mission.**
