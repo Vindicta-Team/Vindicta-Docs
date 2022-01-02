@@ -31,10 +31,10 @@ nav_order: 3
 > Use it to manually take "ownership" of a vehicle. It must be used at an owned location. Use it on crates that contain building resources to gain access to them in the build menu. Normally all items will be automatically attached to the nearest garrison.
 
 ### Are there any air units in the mission?
-> Enemies can use only attack helicopters now. But you can not fly them.
+> Enemies can use attack helicopters.
 
 ### Can I fly helicopters?
-> No, you can't. They are too powerful and until ammunition management or proper anti-air is implemented, you can not fly them.
+> Now that there is functional anti air you can.
 
 ### Can I unlock items in the Arsenal?
 > You can't, it is fully limited. However if you want to have more loot in ammo crates, you can increase it through addon options.
@@ -51,7 +51,7 @@ nav_order: 3
 ### Do enemy crates respawn after I steal them?
 > No.
 
-### Where are the APCs/Tanks/MLRS?
+### Where are the APCs/Tanks?
 > Heavier vehicles appear as you make more campaign progress. When this happens is also dependant on difficulty settings: at high difficulty tanks appear almost immediately, and low they will not appear until much later.
 
 # Zeus
@@ -90,7 +90,7 @@ nav_order: 3
 
 # Common issues
 
-### Why do my vehicles, cargo boxes or static weapons are teleported when I reload the game or come back to my camp?
+### Why have my vehicles, cargo boxes or static weapons teleported when I reload the game or come back to my camp?
 
 > We cant have all objects present at all times for performance reasons.
 
@@ -124,3 +124,6 @@ nav_order: 3
 
 ### How often?
 > As often as it's done
+
+### What will be added next?
+> Project development is stopped and no more features are planned, but pull requests are welcome
