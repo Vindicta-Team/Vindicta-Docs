@@ -6,6 +6,9 @@ nav_order: 3
 
 # Frequently Asked Questions
 
+### What is the current state of development?
+> Project development is stopped and no more new features are planned. Bug fixes are possible, and pull requests are welcome.
+
 # Mods
 
 ### What mods are incompatible?
@@ -31,10 +34,10 @@ nav_order: 3
 > Use it to manually take "ownership" of a vehicle. It must be used at an owned location. Use it on crates that contain building resources to gain access to them in the build menu. Normally all items will be automatically attached to the nearest garrison.
 
 ### Are there any air units in the mission?
-> Enemies can use attack helicopters.
+> There are only attack helicopters. No transport helicopters, drones, or airplanes.
 
 ### Can I fly helicopters?
-> Now that there is functional anti air you can.
+> Yes you can, in version 0.55 anti-air vehicles were added and aircraft access restrictions were removed.
 
 ### Can I unlock items in the Arsenal?
 > You can't, it is fully limited. However if you want to have more loot in ammo crates, you can increase it through addon options.
@@ -51,7 +54,7 @@ nav_order: 3
 ### Do enemy crates respawn after I steal them?
 > No.
 
-### Where are the APCs/Tanks?
+### Where are the APCs/Tanks/MRAPs?
 > Heavier vehicles appear as you make more campaign progress. When this happens is also dependant on difficulty settings: at high difficulty tanks appear almost immediately, and low they will not appear until much later.
 
 # Zeus
@@ -90,7 +93,7 @@ nav_order: 3
 
 # Common issues
 
-### Why have my vehicles, cargo boxes or static weapons teleported when I reload the game or come back to my camp?
+### Why do my vehicles, cargo boxes or static weapons get teleported when I reload the game or come back to my camp?
 
 > We cant have all objects present at all times for performance reasons.
 
@@ -124,6 +127,3 @@ nav_order: 3
 
 ### How often?
 > As often as it's done
-
-### What will be added next?
-> Project development is stopped and no more features are planned, but pull requests are welcome
