@@ -12,7 +12,7 @@ This guide mainly outlines parts which are different for Vindicta setup. It does
 
 ## TLDR
 
-Load Vindicta and its dependencies (ACE, CBA) as `-mod`. Load FileXT as `-servermod`, if your DS is on Windows. On linux FileXT is not supported and will not work. To see example mission names for server.cfg missions class, check FOR_DEDICATED_SERVER_CFG.TXT file in Vindicta mod folder.
+Load Vindicta and its dependencies (ACE, CBA) as `-mod`. Load FileXT as `-servermod`. To see example mission names for server.cfg missions class, check FOR_DEDICATED_SERVER_CFG.TXT file in Vindicta mod folder.
 
 ## Dedicated Server
 
