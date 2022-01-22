@@ -10,7 +10,8 @@ By default saved games are stored in your `.vars.arma3profile file`.
 
 You can also save files into separate files if you install this addon:
 [FileXT at Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2162811561)
-Currently it only supports x86 and x64 Windows Arma builds.
+~~Currently it only supports x86 and x64 Windows Arma builds.~~
+At 22 Jan. 2022 Linux support was added. Now it should work both on Windows and Linux.
 
 # Advantages
 
