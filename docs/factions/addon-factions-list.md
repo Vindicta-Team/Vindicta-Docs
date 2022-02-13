@@ -9,6 +9,13 @@ These factions are not present in the mission but are added through addons. They
 
 If you want your faction to be added to this list send me a private message <b>(MatrikSky#7482)</b> on official <b>[Vindicta Discord](https://discord.com/invite/CPkgHuN)</b>. In the message give me the workshop link to the faction and the in-game name of this faction.
 
+# Full Factions
+## Star Wars Factions
+
+Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilians)
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2752181554)</b>
+
 # Military
 ## Vindicta Vietnam Factions [UNSUNG]
 
