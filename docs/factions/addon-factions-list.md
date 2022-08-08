@@ -134,3 +134,9 @@ Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilia
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+## Vindicta - Colombian Conflict Factions [Colombian Armed Forces RHS]
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2846238651)</b>
+
+<b>Faction by [Javoco](https://github.com/Javico40)</b><br>
