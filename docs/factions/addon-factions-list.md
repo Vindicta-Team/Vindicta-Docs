@@ -79,6 +79,18 @@ Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilia
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
 
+## Vindicta - Colombian Conflict Factions [Colombian Armed Forces RHS]
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2846238651)</b>
+
+<b>Faction by [Javoco](https://github.com/Javico40)</b><br>
+
+## Vindicta - Israel Defense Forces IDF
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2847753731)</b>
+
+<b>Faction by [Javoco](https://github.com/Javico40)</b><br>
+
 # Police
 ## Vindicta Vietnam Factions [UNSUNG]
 
@@ -134,9 +146,3 @@ Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilia
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
-
-## Vindicta - Colombian Conflict Factions [Colombian Armed Forces RHS]
-
-<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2846238651)</b>
-
-<b>Faction by [Javoco](https://github.com/Javico40)</b><br>
