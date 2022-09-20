@@ -10,11 +10,30 @@ These factions are not present in the mission but are added through addons. They
 If you want your faction to be added to this list send me a private message <b>(MatrikSky#7482)</b> on official <b>[Vindicta Discord](https://discord.com/invite/CPkgHuN)</b>. In the message give me the workshop link to the faction and the in-game name of this faction.
 
 # Full Factions
-## Star Wars Factions
-
-Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilians)
+## Vindicta - Star Wars Factions
 
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2752181554)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
+
+## Vindicta - The Clone Wars
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2827685228)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
+
+## Vindicta - OPTRE Factions
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2805975851)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
+
+## Vindicta - Scion Conflict Factions
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2759223752)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
+
 
 # Military
 ## Vindicta Vietnam Factions [UNSUNG]
@@ -91,6 +110,13 @@ Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilia
 
 <b>Faction by [Javoco](https://github.com/Javico40)</b><br>
 
+## Vindicta - People's Liberation Army (PLA)
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2827686527)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
+
+
 # Police
 ## Vindicta Vietnam Factions [UNSUNG]
 
@@ -133,6 +159,12 @@ Adds Galactic Empire (Military), Empire Police (Police), Rebel Alliance (Civilia
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179771686)</b>
 
 <b>Faction by [Jasperdoit](https://github.com/Jasperdoit)</b><br>
+
+## Vindicta - People's Liberation Army (PLA)
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2827686527)</b>
+
+<b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
 
 # Civilians
 ## Vindicta Vietnam Factions [UNSUNG]
