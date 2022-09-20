@@ -7,7 +7,7 @@ nav_order: 3
 # Frequently Asked Questions
 
 ### What is the current state of development?
-> Project development is stopped and no more new features are planned. Bug fixes are possible, and pull requests are welcome.
+> Project development is stopped and no more new features are planned. Also we are not be able to accept pull requests any more, but you can make your own fork and publish it yourself.
 
 # Mods
 
