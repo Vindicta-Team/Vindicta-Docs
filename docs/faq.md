@@ -120,6 +120,15 @@ nav_order: 3
 
 [Screenshot 1](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_0.jpg)  [Screenshot 2](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_1.jpg)  [Screenshot 3](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_2.jpg)  [Screenshot 4](https://raw.githubusercontent.com/Vindicta-Team/Vindicta-Docs/master/images/ai_debug_3.jpg)
 
+### How can I help prevent my server from becoming overloaded?
+> To see if your server is struggling to keep up, we can view the server's FPS (not the same as a client's FPS) using `#monitor 1`. To use this command, you must be logged in as admin.  If a server FPS is > 40, you will not notice any overloading side effects. When this value is < 40, you may start to see some side effects, and if it is < 20, you may notice significant side effects. 
+
+> These side effects can range from a variety of symptoms. Some common symptoms are: not being teleported off the initial spawn point for some time, AI spawning in front of you when you arrive at a location, AI not registering being hit for a few seconds after being shot, or your cars/objects placed at your camp not spawning in for significant periods of time.
+
+> Thankfully, there are a few different ways to mitigate this issue.  Firstly, if you are playing with a group of people, try to keep everyone together in one or two groups.  When people are spread out, the server needs to load in more AI so everyone can see the types of people around them.  (Civilians, Police, Enemy Forces, Friendly Forces). If you are already doing that, you may need to turn the spawning radius of AI down.  To do this, go to `Configure > Addon Options > Vindicta` and search for AI-to-AI spawn distance and Player-to-AI spawn distance.  Turn these values down to what you believe is reasonable; a good compromise is 800 for Player-to-AI and 500 for AI-to-AI. This will allow players to see enemy AI from a fair distance out (although it may be too close to snipe AI with), and it allows AI to spawn far enough away to allow for more realistic firefights. You can also try to reduce ambient civilian density.
+
+> If the server still faces severe overloading issues, then the player can also be strategic with where they send AI.  Trying to attack Enemy Forces on two fronts means two-times the number of AI is likely to be spawned at once.  Keeping the offensive focused on one front helps prevent too many AI from being spawned at one time.  In addition, it is also possible that the server hardware itself is insufficient to run a game of Vindicita, which is often the case with hardware offered by cheap dedicated server hosting companies. Arma is a very CPU-intensive game, much affected by processor single core performance. You can check single core performance benchmark score of your server's processor to estimate if it can run Arma well.
+
 # Other questions
 
 ### When?

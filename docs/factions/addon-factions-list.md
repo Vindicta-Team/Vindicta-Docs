@@ -117,8 +117,6 @@ If you want your faction to be added to this list send me a private message <b>(
 <b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
 
 
-
-
 # Police
 ## Vindicta Vietnam Factions [UNSUNG]
 
