@@ -36,7 +36,7 @@ If you want your faction to be added to this list send me a private message <b>(
 
 ## Half Life Alyx Vindicta Factions
 
-<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2569525489)</b>
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2898004111)</b>
 
 <b>Faction by MatthewL</b>
 
