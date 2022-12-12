@@ -34,6 +34,11 @@ If you want your faction to be added to this list send me a private message <b>(
 
 <b>Faction by [BoinkStoinkMcGee](https://github.com/boinkstoinkmcgee)</b><br>
 
+## Half Life Alyx Vindicta Factions
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2569525489)</b>
+
+<b>Faction by MatthewL</b>
 
 # Military
 ## Vindicta Vietnam Factions [UNSUNG]
