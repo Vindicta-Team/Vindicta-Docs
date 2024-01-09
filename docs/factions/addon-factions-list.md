@@ -183,3 +183,9 @@ If you want your faction to be added to this list send me a private message <b>(
 <b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2179776375)</b>
 
 <b>Faction by [MatrikSky](https://github.com/MatrikSky)</b><br>
+
+## New California Republic (Vindicta)
+
+<b>[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3135393568)</b>
+
+<b>Faction by [MarcelineMaeEye](https://steamcommunity.com/id/MarcyMaeEye/)</b><br>
